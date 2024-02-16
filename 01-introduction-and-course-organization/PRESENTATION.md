@@ -78,6 +78,8 @@ _paginate: false
 - Vincent Guidoux (Charge de cours)
 - Hadrien Louis (Assistanat)
 
+![right 50%](images/team.jpg)
+
 ---
 
 ## 📋 Objectifs

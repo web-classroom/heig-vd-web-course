@@ -1,0 +1,27 @@
+## Linux
+
+# Temporary files
+*~
+
+## macOS
+
+# Files created by macOS Finder
+.DS_Store
+
+## Marp, Pandoc and weasyprint
+
+# Outputs
+*.html
+*.pdf
+
+## Visual Studio Code
+/.devcontainer
+/.vscode
+
+## Windows
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini

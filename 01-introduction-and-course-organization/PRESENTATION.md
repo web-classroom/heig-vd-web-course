@@ -78,7 +78,7 @@ _paginate: false
 - Vincent Guidoux (Charge de cours)
 - Hadrien Louis (Assistanat)
 
-![right 50%](images/team.jpg)
+![bg right:60%](images/team.jpg)
 
 ---
 
@@ -139,6 +139,8 @@ Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
 
 ## Sources
 
-- [Photo](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
+- [Plantes sur ficelle](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
   by Griffin Quinn is licensed under
   [Unsplash License](https://unsplash.com/license)
+- [Best team](https://clubphoto.heig-vd.ch/picture.php?/3349/category/91) by
+  Miguel Santamaria ❤️

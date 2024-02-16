@@ -8,9 +8,18 @@ GitHub pages is available at
 
 ## Weeks
 
-### Week 1 [CURRENT]
+<details open>
+<summary>Week 1</summary>
 
 - [1. Introduction and course organization](./01-introduction-and-course-organization/README.md)
+
+</details>
+<details>
+<summary>Week 2</summary>
+
+- [Nothing yet](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+</details>
 
 ## License
 

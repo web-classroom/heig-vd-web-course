@@ -51,14 +51,16 @@ style: |
 
 ## 🧑‍🏫 Staff
 
-- Olivier Lemer (Enseignant)
-- Stefan Teofanovic (Assistant)
+- Vincent Guidoux (Charge de cours)
+- Hadrien Louis (Assistanat)
 
 ---
 
 ## 📋 Objectifs
 
-Maîtriser les fondamentaux du Web pour permettre l'adoption de tout framework dans le futur. Par conséquent, pas d'éternisation sur un framework en particulier.
+Maîtriser les fondamentaux du Web pour permettre l'adoption de tout framework
+dans le futur. Par conséquent, pas d'éternisation sur un framework en
+particulier.
 
 ---
 
@@ -71,35 +73,38 @@ Maîtriser les fondamentaux du Web pour permettre l'adoption de tout framework d
 
 ## 🛠️ Outils d'enseignement
 
-- Slides sur [web-classroom.github.io](https://web-classroom.github.io) en version Web ou PDF, avec notes de cours.
+- Slides sur [web-classroom.github.io](https://web-classroom.github.io) en
+  version Web ou PDF, avec notes de cours.
   - Généralement en anglais.
-- [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-f23-olr) pour rendu et notation des exercices
-- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) pour interactions, questions, feedback. Si besoin d'anonymat, m'envoyer un mail (`prénom.nom@heig-vd.ch`).
+- [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
+  pour rendu et notation des exercices
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) pour
+  interactions, questions, feedback. Si besoin d'anonymat, m'envoyer un mail
+  (`vincent.guidoux1@heig-vd.ch`).
 - Cyberlearn pour les dates des évaluations.
 
-*Assurez-vous d'avoir accès à ces outils dès maintenant.*
+_Assurez-vous d'avoir accès à ces outils dès maintenant._
 
 ---
 
 ## 📅 Format d'une séance
 
-Mardi 13h15, 3 périodes
+Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
 
 - Correction du labo et réponse aux question soulevées sur Github Discussions
 - Quiz rapide (non noté)
 - Cours théorique avec quelques hands-on
-- Interruptions durant le cours **souhaitées** !
-
-Mardi 15h45, 3 périodes
-
 - Labo
+- Interruptions durant le cours **souhaitées** !
 
 ---
 
 ## 🏅 Notation
 
-- 8 labos, dont 4 qui construisent sur le précédent pour créer un jeu multijoueur en ligne.
+- 8 labos, dont 4 qui construisent sur le précédent pour créer un jeu
+  multijoueur en ligne.
 - 3 tests, formats et dates à définir
+- 1 examen final
 
 ---
 

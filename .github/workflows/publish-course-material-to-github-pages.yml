@@ -8,8 +8,8 @@ concurrency:
 on:
   push:
     branches:
-      - 1-initiate-repository
       - main
+      - 3-correct-github-actions-to-publish-website
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:

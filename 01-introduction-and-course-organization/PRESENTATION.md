@@ -43,9 +43,33 @@ style: |
     }
 -->
 
+[web]:
+  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/
+[pdf]:
+  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/01-introduction-and-course-organization-presentation.pdf
+[license]:
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
+[illustration]:
+  https://images.unsplash.com/photo-1659328376647-52ec39d1a5cf?fit=crop&h=720
+[source]:
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
+
 # Technologies web
 
 ## Organisation
+
+<!--
+_class: lead
+_paginate: false
+-->
+
+<https://github.com/web-classroom/heig-vd-web-course>
+
+[Web][web] · [PDF][pdf] · [Source][source]
+
+<small>This work is licensed under the [CC BY-SA 4.0][license] license.</small>
+
+![bg opacity:0.1][illustration]
 
 ---
 
@@ -73,17 +97,16 @@ particulier.
 
 ## 🛠️ Outils d'enseignement
 
-- Slides sur [web-classroom.github.io](https://web-classroom.github.io) en
-  version Web ou PDF, avec notes de cours.
+- Slides sur
+  [https://web-classroom.github.io/heig-vd-web-course/](https://web-classroom.github.io/heig-vd-web-course/)
+  en version Web ou PDF, avec notes de cours.
   - Généralement en anglais.
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
   pour rendu et notation des exercices
 - [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) pour
   interactions, questions, feedback. Si besoin d'anonymat, m'envoyer un mail
   (`vincent.guidoux1@heig-vd.ch`).
-- Cyberlearn pour les dates des évaluations.
-
-_Assurez-vous d'avoir accès à ces outils dès maintenant._
+- GAPS pour les dates des évaluations.
 
 ---
 
@@ -91,7 +114,7 @@ _Assurez-vous d'avoir accès à ces outils dès maintenant._
 
 Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
 
-- Correction du labo et réponse aux question soulevées sur Github Discussions
+- Correction du labo et réponse aux questions soulevées sur Github Discussions
 - Quiz rapide (non noté)
 - Cours théorique avec quelques hands-on
 - Labo
@@ -109,3 +132,11 @@ Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
 ---
 
 # ✋ Questions
+
+---
+
+## Sources
+
+- [Photo](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
+  by Griffin Quinn is licensed under
+  [Unsplash License](https://unsplash.com/license)

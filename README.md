@@ -3,6 +3,15 @@
 The main repository for the WEB course at [HEIG-VD](https://heig-vd.ch),
 Switzerland.
 
+GitHub pages is available at
+[web-classroom.github.io/heig-vd-web-course](https://web-classroom.github.io/heig-vd-web-course).
+
+## Weeks
+
+### Week 1 [CURRENT]
+
+- [1. Introduction and course organization](./01-introduction-and-course-organization/README.md)
+
 ## License
 
 This work is licensed under a

@@ -51,8 +51,11 @@ style: |
   https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
 [illustration]:
   https://images.unsplash.com/photo-1659328376647-52ec39d1a5cf?fit=crop&h=720
+[questions]:
+  https://images.unsplash.com/photo-1548445929-4f60a497f851?fit=crop&h=720
 [source]:
   https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
+[apod]: https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg
 
 # Web Technologies
 
@@ -95,6 +98,8 @@ framework.
 - Object-oriented programming
 - Network programming (sockets, TCP, UDP, HTTP)
 
+![bg opacity:0.1][apod]
+
 ---
 
 ## 🛠️ Teaching tools
@@ -126,14 +131,16 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
 ## 🏅 Notation
 
-- 8 labs, 4 of which build on the previous one to create an online online
-  multiplayer game.
-- 3 tests, formats and dates to be defined
-- 1 final exam
+- 6-8 labs, 4 of which build on the previous one to create an online multiplayer
+  game. (20%)
+- 2-3 evaluation, formats and dates to be defined (30%)
+- Final exam (50%)
 
 ---
 
 # ✋ Questions
+
+![bg opacity:0.1][questions]
 
 ---
 
@@ -144,3 +151,7 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
   [Unsplash License](https://unsplash.com/license)
 - [Best team](https://clubphoto.heig-vd.ch/picture.php?/3349/category/91) by
   Miguel Santamaria ❤️
+- [Aurora and Milky Way over Norway](https://apod.nasa.gov/apod/ap231212.html)
+  by Giulio Cobianchi
+- [tunnel en béton gris sous des arbres verts](https://unsplash.com/fr/photos/tunnel-en-beton-gris-sous-des-arbres-verts-omL9Q8B2YCI)
+  by Anna Gru is licensed under [Unsplash License](https://unsplash.com/license)

@@ -41,71 +41,126 @@ style: |
     ul {
         margin-top: 0.5rem;
     }
+    section::after {
+      content: attr(data-marpit-pagination-) '/' attr(data-marpit-pagination-total);
+    }
 -->
 
-# Technologies web
+[web]:
+  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/
+[pdf]:
+  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/01-introduction-and-course-organization-presentation.pdf
+[license]:
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
+[illustration]:
+  https://images.unsplash.com/photo-1659328376647-52ec39d1a5cf?fit=crop&h=720
+[questions]:
+  https://images.unsplash.com/photo-1548445929-4f60a497f851?fit=crop&h=720
+[source]:
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
+[apod]: https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg
 
-## Organisation
+# Web Technologies
+
+## Organization
+
+<!--
+_class: lead
+_paginate: false
+-->
+
+<https://github.com/web-classroom/heig-vd-web-course>
+
+[Web][web] · [PDF][pdf] · [Source][source]
+
+<small>This work is licensed under the [CC BY-SA 4.0][license] license.</small>
+
+![bg opacity:0.1][illustration]
 
 ---
 
 ## 🧑‍🏫 Staff
 
-- Vincent Guidoux (Charge de cours)
-- Hadrien Louis (Assistanat)
+- Vincent Guidoux
+  - Lecturer
+  - He/Him
+  - 🎭🚲🌿🖖🎶
+- Hadrien Louis
+  - Assistant
+  - He/Him
+  - 🀄
+
+![bg right:60%](images/team.jpg)
 
 ---
 
-## 📋 Objectifs
+## 📋 Objectives
 
-Maîtriser les fondamentaux du Web pour permettre l'adoption de tout framework
-dans le futur. Par conséquent, pas d'éternisation sur un framework en
-particulier.
-
----
-
-## 🔄 Prérequis
-
-- Programmation orientée objets
-- Programmation réseau (sockets, TCP, UDP, HTTP)
+Master the fundamentals of the Web to enable the adoption of any framework in
+the future. As a result, there's no point in obsessing over a particular
+framework.
 
 ---
 
-## 🛠️ Outils d'enseignement
+## 🔄 Prerequisites
 
-- Slides sur [web-classroom.github.io](https://web-classroom.github.io) en
-  version Web ou PDF, avec notes de cours.
-  - Généralement en anglais.
+- Object-oriented programming
+- Network programming (sockets, TCP, UDP, HTTP)
+
+![bg opacity:0.1][apod]
+
+---
+
+## 🛠️ Teaching tools
+
+- Slides on
+  [https://web-classroom.github.io/heig-vd-web-course/](https://web-classroom.github.io/heig-vd-web-course/)
+  in Web or PDF version, with lecture notes.
+  - Generally in English.
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
-  pour rendu et notation des exercices
-- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) pour
-  interactions, questions, feedback. Si besoin d'anonymat, m'envoyer un mail
+  for rendering and marking exercises.
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) for
+  interaction, questions and feedback. If you need anonymity, send me an email
   (`vincent.guidoux1@heig-vd.ch`).
-- Cyberlearn pour les dates des évaluations.
-
-_Assurez-vous d'avoir accès à ces outils dès maintenant._
+- GAPS for assessment dates.
 
 ---
 
-## 📅 Format d'une séance
+## 📅 Session format
 
-Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
+Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
-- Correction du labo et réponse aux question soulevées sur Github Discussions
-- Quiz rapide (non noté)
-- Cours théorique avec quelques hands-on
-- Labo
-- Interruptions durant le cours **souhaitées** !
+- Correcting the lab and answering questions raised on Github Discussions
+- Quick quiz (not marked)
+- Theoretical course with some hands-on
+- Lab
+- Interruptions during the course are **welcome**!
 
 ---
 
 ## 🏅 Notation
 
-- 8 labos, dont 4 qui construisent sur le précédent pour créer un jeu
-  multijoueur en ligne.
-- 3 tests, formats et dates à définir
-- 1 examen final
+- 6-8 labs, 4 of which build on the previous one to create an online multiplayer
+  game. (20%)
+- 2-3 evaluation, formats and dates to be defined (30%)
+- Final exam (50%)
 
 ---
 
 # ✋ Questions
+
+![bg opacity:0.1][questions]
+
+---
+
+## Sources
+
+- [A bunch of flowers from a string](https://unsplash.com/photos/a-bunch-of-flowers-from-a-string-lP_FoHCLjWk)
+  by Griffin Quinn is licensed under
+  [Unsplash License](https://unsplash.com/license)
+- [Best team](https://clubphoto.heig-vd.ch/picture.php?/3349/category/91) by
+  Miguel Santamaria ❤️
+- [Aurora and Milky Way over Norway](https://apod.nasa.gov/apod/ap231212.html)
+  by Giulio Cobianchi
+- [Gray concrete tunnel under green trees](https://unsplash.com/photos/gray-concrete-tunnel-under-green-trees-omL9Q8B2YCI)
+  by Anna Gru is licensed under [Unsplash License](https://unsplash.com/license)

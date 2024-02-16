@@ -41,6 +41,9 @@ style: |
     ul {
         margin-top: 0.5rem;
     }
+    section::after {
+      content: attr(data-marpit-pagination-) '/' attr(data-marpit-pagination-total);
+    }
 -->
 
 [web]:
@@ -78,8 +81,14 @@ _paginate: false
 
 ## 🧑‍🏫 Staff
 
-- Vincent Guidoux (Lecturer) [He/Him]
-- Hadrien Louis (Support) [He/Him]
+- Vincent Guidoux
+  - Lecturer
+  - He/Him
+  - 🎭🚲🌿🖖🎶
+- Hadrien Louis
+  - Assistant
+  - He/Him
+  - 🀄
 
 ![bg right:60%](images/team.jpg)
 

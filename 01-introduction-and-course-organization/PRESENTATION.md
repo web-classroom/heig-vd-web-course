@@ -54,9 +54,9 @@ style: |
 [source]:
   https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
 
-# Technologies web
+# Web Technologies
 
-## Organisation
+## Organization
 
 <!--
 _class: lead
@@ -75,61 +75,61 @@ _paginate: false
 
 ## 🧑‍🏫 Staff
 
-- Vincent Guidoux (Charge de cours)
-- Hadrien Louis (Assistanat)
+- Vincent Guidoux (Lecturer) [He/Him]
+- Hadrien Louis (Support) [He/Him]
 
 ![bg right:60%](images/team.jpg)
 
 ---
 
-## 📋 Objectifs
+## 📋 Objectives
 
-Maîtriser les fondamentaux du Web pour permettre l'adoption de tout framework
-dans le futur. Par conséquent, pas d'éternisation sur un framework en
-particulier.
-
----
-
-## 🔄 Prérequis
-
-- Programmation orientée objets
-- Programmation réseau (sockets, TCP, UDP, HTTP)
+Master the fundamentals of the Web to enable the adoption of any framework in
+the future. As a result, there's no point in obsessing over a particular
+framework.
 
 ---
 
-## 🛠️ Outils d'enseignement
+## 🔄 Prerequisites
 
-- Slides sur
+- Object-oriented programming
+- Network programming (sockets, TCP, UDP, HTTP)
+
+---
+
+## 🛠️ Teaching tools
+
+- Slides on
   [https://web-classroom.github.io/heig-vd-web-course/](https://web-classroom.github.io/heig-vd-web-course/)
-  en version Web ou PDF, avec notes de cours.
-  - Généralement en anglais.
+  in Web or PDF version, with lecture notes.
+  - Generally in English.
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
-  pour rendu et notation des exercices
-- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) pour
-  interactions, questions, feedback. Si besoin d'anonymat, m'envoyer un mail
+  for rendering and marking exercises.
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) for
+  interaction, questions and feedback. If you need anonymity, send me an email
   (`vincent.guidoux1@heig-vd.ch`).
-- GAPS pour les dates des évaluations.
+- GAPS for assessment dates.
 
 ---
 
-## 📅 Format d'une séance
+## 📅 Session format
 
-Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
+Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
-- Correction du labo et réponse aux questions soulevées sur Github Discussions
-- Quiz rapide (non noté)
-- Cours théorique avec quelques hands-on
-- Labo
-- Interruptions durant le cours **souhaitées** !
+- Correcting the lab and answering questions raised on Github Discussions
+- Quick quiz (not marked)
+- Theoretical course with some hands-on
+- Lab
+- Interruptions during the course are **welcome**!
 
 ---
 
 ## 🏅 Notation
 
-- 8 labos, dont 4 qui construisent sur le précédent pour créer un jeu
-  multijoueur en ligne.
-- 3 tests, formats et dates à définir
-- 1 examen final
+- 8 labs, 4 of which build on the previous one to create an online online
+  multiplayer game.
+- 3 tests, formats and dates to be defined
+- 1 final exam
 
 ---
 
@@ -139,7 +139,7 @@ Mercredi 09h15, 3 périodes & mercredi 14h55, 3 périodes
 
 ## Sources
 
-- [Plantes sur ficelle](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
+- [un bouquet de fleurs d’une ficelle](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
   by Griffin Quinn is licensed under
   [Unsplash License](https://unsplash.com/license)
 - [Best team](https://clubphoto.heig-vd.ch/picture.php?/3349/category/91) by

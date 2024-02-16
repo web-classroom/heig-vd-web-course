@@ -146,12 +146,12 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
 ## Sources
 
-- [un bouquet de fleurs d’une ficelle](https://unsplash.com/fr/photos/un-bouquet-de-fleurs-dune-ficelle-lP_FoHCLjWk)
+- [A bunch of flowers from a string](https://unsplash.com/photos/a-bunch-of-flowers-from-a-string-lP_FoHCLjWk)
   by Griffin Quinn is licensed under
   [Unsplash License](https://unsplash.com/license)
 - [Best team](https://clubphoto.heig-vd.ch/picture.php?/3349/category/91) by
   Miguel Santamaria ❤️
 - [Aurora and Milky Way over Norway](https://apod.nasa.gov/apod/ap231212.html)
   by Giulio Cobianchi
-- [tunnel en béton gris sous des arbres verts](https://unsplash.com/fr/photos/tunnel-en-beton-gris-sous-des-arbres-verts-omL9Q8B2YCI)
+- [Gray concrete tunnel under green trees](https://unsplash.com/photos/gray-concrete-tunnel-under-green-trees-omL9Q8B2YCI)
   by Anna Gru is licensed under [Unsplash License](https://unsplash.com/license)

@@ -1,0 +1,12 @@
+services:
+  devcontainer:
+    # Why bullseye ? https://github.com/orgs/community/discussions/61327#discussioncomment-6503801
+    image: mcr.microsoft.com/devcontainers/javascript-node:20-bullseye
+    volumes:
+      - ../..:/workspaces:cached
+    command: sleep infinity
+
+  plantuml:
+    image: plantuml/plantuml-server:latest
+    ports:
+      - 8080:8080

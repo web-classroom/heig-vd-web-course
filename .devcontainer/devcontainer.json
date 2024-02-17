@@ -1,0 +1,34 @@
+{
+  "name": "HEIG-VD WEB Course Development Container",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "devcontainer",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/mkdocs:2": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-github-actions",
+        "jebbs.plantuml",
+        "marp-team.marp-vscode",
+        "ms-vsliveshare.vsliveshare-pack",
+        "nvarner.typst-lsp",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-french",
+        "tomoki1207.pdf"
+      ]
+    }
+  },
+  // Execute the post-create.sh script once the container is created
+  "postCreateCommand": "./.devcontainer/post-create.sh",
+  // Map the user's SSH directory to the container for SSH signing
+  "mounts": [
+    "type=bind,source=${localEnv:HOME}/.ssh,target=${localEnv:HOME}/.ssh,type=bind,consistency=cached"
+  ]
+}

@@ -71,9 +71,9 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       linenums: true
@@ -94,7 +94,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-extra_css:
-  - assets/stylesheets/extra.css
-extra_javascript:
-  - assets/javascripts/extra.js
+# extra_css:
+#   - assets/stylesheets/extra.css
+# extra_javascript:
+#   - assets/javascripts/extra.js

@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - main
+      - 5-add-material-for-mkdocs
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:

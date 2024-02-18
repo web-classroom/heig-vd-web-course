@@ -83,7 +83,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       check_paths: true
-      base_path: ["content"]
+      base_path: ["docs"]
       auto_append:
         - glossary/index.md
   - pymdownx.tabbed:

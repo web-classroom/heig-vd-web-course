@@ -1,0 +1,43 @@
+{
+  "name": "beeQuiz demonstration (JSON)",
+  "description": "This is a demonstration of beeQuiz in a JSON format.",
+  "tags": ["beeQuiz", "demonstration"],
+  "questions": [
+    {
+      "title": "What is the purpose of beeQuiz?",
+      "statement": "Do you think **beeQuiz** is a web application to create _quizzes_ or to make _honey_?\n",
+      "possibleAnswers": [
+        "beeQuiz is a web application to create quizzes",
+        "beeQuiz is a web application to make honey"
+      ],
+      "correctAnswer": {
+        "index": 0,
+        "explanation": "beeQuiz is a very simple quiz generator from JSON or YAML specification files.\n\nThe features of beeQuiz are:\n\n- [x] Easily generate quizzes from JSON or YAML specification files\n- [x] Support Markdown in question statements and explanations\n- [ ] Create interactive quizzes to engage your audience (soon maybe?)\n\nIt does even support `code` blocks!\n\n```java\npublic class HelloWorld {\n  public static void main(String[] args) {\n    System.out.println(\"Hello, World!\");\n  }\n}\n```\n"
+      }
+    },
+    {
+      "title": "What is the license of beeQuiz?",
+      "possibleAnswers": [
+        "beeQuiz is a closed source project",
+        "beeQuiz is an open source project",
+        "beeQuiz is not even a project"
+      ],
+      "correctAnswer": {
+        "index": 1,
+        "explanation": "beeQuiz is an open source project that you can find on [GitHub](https://github.com/beescreens/beequiz)."
+      }
+    },
+    {
+      "title": "Is it possible to contribute to beeQuiz?",
+      "possibleAnswers": [
+        "beeQuiz does not accept contributions.",
+        "beeQuiz accepts contributions from anyone, but only from bees.",
+        "beeQuiz accepts contributions from anyone!"
+      ],
+      "correctAnswer": {
+        "index": 2,
+        "explanation": "beeQuiz accepts contributions! Feel free to check the project on [GitHub](https://github.com/beescreens/beequiz)."
+      }
+    }
+  ]
+}

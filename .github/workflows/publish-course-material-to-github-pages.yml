@@ -50,6 +50,7 @@ jobs:
             **/*.jpg
             **/*.jpeg
             **/*.pdf
+            **/*.json
             **/*.png
             **/*.svg
           if-no-files-found: error
@@ -69,7 +70,7 @@ jobs:
 
       - name: Generate index.html with tree
         run: |
-          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD WEB Course' -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
+          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD WEB Course' -P "*.html|*.pdf|*.json" --prune --charset utf-8 -o index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1

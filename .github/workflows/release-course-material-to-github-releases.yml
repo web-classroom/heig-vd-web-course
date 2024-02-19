@@ -34,4 +34,5 @@ jobs:
           body: |
             This release contains the course material for the WEB course at [HEIG-VD](https://heig-vd.ch), Switzerland.
           files: |
-            **/*.pdf
+            **/*.pdf /
+            **/*.json

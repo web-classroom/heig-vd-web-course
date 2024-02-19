@@ -54,6 +54,8 @@ style: |
   https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
 [questions]:
   https://images.unsplash.com/photo-1548445929-4f60a497f851?fit=crop&h=720
+[illustration]:
+  https://images.unsplash.com/photo-1659328376647-52ec39d1a5cf?fit=crop&h=720
 [source]:
   https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
 

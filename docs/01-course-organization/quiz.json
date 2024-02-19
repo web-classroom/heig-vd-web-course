@@ -68,7 +68,7 @@
       }
     },
     {
-      "title": "Pourquoi HTTP est-il appelé un protocole sans état ?",
+      "title": "Pourquoi HTTP est-il considéré comme un protocole sans état ?",
       "possibleAnswers": [
         "Car le serveur ne stocke aucune information sur le client.",
         "Car le serveur ne stocke aucune information sur le client entre les requêtes.",

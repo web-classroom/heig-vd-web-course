@@ -1,42 +1,81 @@
 {
-  "name": "beeQuiz demonstration (JSON)",
-  "description": "This is a demonstration of beeQuiz in a JSON format.",
-  "tags": ["beeQuiz", "demonstration"],
+  "name": "HEIG-VD WEB-A VGX Course - Quelques rappels sur DAI et POO", 
+  "description": "Ce quiz a pour but de vous remettre en mémoire les concepts de base de la programmation orientée objet et du développement d'applications internet.",
   "questions": [
     {
-      "title": "What is the purpose of beeQuiz?",
-      "statement": "Do you think **beeQuiz** is a web application to create _quizzes_ or to make _honey_?\n",
+      "title": "Le protocole HTTP est un protocole de couche ?",
+      "possibleAnswers": ["Transport", "Réseau", "Applicative", "Présentation"],
+      "correctAnswer": {
+        "index": 2,
+        "explanation": "HTTP est un protocole de la couche application dans le modèle OSI."
+      }
+    },
+    {
+      "title": "Qu'est-ce que l'encapsulation en programmation orientée objet ?",
       "possibleAnswers": [
-        "beeQuiz is a web application to create quizzes",
-        "beeQuiz is a web application to make honey"
+        "L'encapsulation consiste à regrouper des données et des méthodes au sein d'une même entité pour mieux organiser et sécuriser le code.",
+        "L'encapsulation consiste à hiérarchiser les classes en fonction de leur relation d'héritage.",
+        "L'encapsulation consiste à définir une interface commune pour un ensemble de classes apparentées."
       ],
       "correctAnswer": {
         "index": 0,
-        "explanation": "beeQuiz is a very simple quiz generator from JSON or YAML specification files.\n\nThe features of beeQuiz are:\n\n- [x] Easily generate quizzes from JSON or YAML specification files\n- [x] Support Markdown in question statements and explanations\n- [ ] Create interactive quizzes to engage your audience (soon maybe?)\n\nIt does even support `code` blocks!\n\n```java\npublic class HelloWorld {\n  public static void main(String[] args) {\n    System.out.println(\"Hello, World!\");\n  }\n}\n```\n"
+        "explanation": "L'encapsulation consiste à regrouper des données et des méthodes au sein d'une même entité pour mieux organiser et sécuriser le code."
       }
     },
     {
-      "title": "What is the license of beeQuiz?",
-      "possibleAnswers": [
-        "beeQuiz is a closed source project",
-        "beeQuiz is an open source project",
-        "beeQuiz is not even a project"
-      ],
+      "title": "Quel protocole de transport utilise HTTP ?",
+      "possibleAnswers": ["TCP", "UDP", "Les deux"],
       "correctAnswer": {
-        "index": 1,
-        "explanation": "beeQuiz is an open source project that you can find on [GitHub](https://github.com/beescreens/beequiz)."
+        "index": 0,
+        "explanation": "HTTP 1.0, 1.1 et 2.0 utilisent le protocole TCP. HTTP/3 utilise QUIC, qui est basé sur UDP."
       }
     },
     {
-      "title": "Is it possible to contribute to beeQuiz?",
+      "title": "Quel est le but de l'héritage en programmation orientée objet ?",
       "possibleAnswers": [
-        "beeQuiz does not accept contributions.",
-        "beeQuiz accepts contributions from anyone, but only from bees.",
-        "beeQuiz accepts contributions from anyone!"
+        "L'héritage permet à une classe de déclarer plusieurs méthodes avec le même nom.",
+        "L'héritage permet à une classe de partager ses méthodes et ses champs avec d'autres classes.",
+        "L'héritage permet à une classe (appelée classe dérivée ou sous-classe) d'hériter des propriétés et des comportements d'une autre classe (appelée classe de base ou superclasse)."
       ],
       "correctAnswer": {
         "index": 2,
-        "explanation": "beeQuiz accepts contributions! Feel free to check the project on [GitHub](https://github.com/beescreens/beequiz)."
+        "explanation": "L'héritage permet à une classe (appelée classe dérivée ou sous-classe) d'hériter des propriétés et des comportements d'une autre classe (appelée classe de base ou superclasse)."
+      }
+    },
+    {
+      "title": "Quel est le bon workflow git ?",
+      "possibleAnswers": [
+        "1. create issue 2. checkout 3. create branch 4. commit 5. merge 6. push 7. pull",
+        "1. create branch 2. pull 3. create issue 4. commit 5. merge 6. checkout 7. push",
+        "1. create issue 2. create branch 3. pull 4. checkout 5. commit 6. push 7. merge"
+      ],
+      "correctAnswer": {
+        "index": 2,
+        "explanation": "1. Créer une issue pour décrire le problème ou la fonctionnalité. 2. Créer une branche pour travailler sur le problème ou la fonctionnalité. 3. Récupérer les dernières modifications du dépôt distant. 4. Se placer sur la branche créée. 5. Faire des commits pour sauvegarder les modifications. 6. Pousser les modifications le dépôt distant. 7. Fusionner la branche dans la branche principale."
+      }
+    },
+    {
+      "title": "Qu'est-ce que le polymorphisme en programmation orientée objet ?",
+      "possibleAnswers": [
+        "Le polymorphisme permet à une classe de déclarer plusieurs méthodes avec le même nom.",
+        "Le polymorphisme permet à des objets de différentes classes d'être traités de manière uniforme à travers une interface commune.",
+        "Le polymorphisme permet à une classe de partager ses méthodes et ses champs avec d'autres classes."
+      ],
+      "correctAnswer": {
+        "index": 1,
+        "explanation": "Le polymorphisme permet à des objets de différentes classes d'être traités de manière uniforme à travers une interface commune."
+      }
+    },
+    {
+      "title": "Pourquoi HTTP est-il appelé un protocole sans état ?",
+      "possibleAnswers": [
+        "Car le serveur ne stocke aucune information sur le client.",
+        "Car le serveur ne stocke aucune information sur le client entre les requêtes.",
+        "Car le serveur ne stocke aucune information sur le client entre les sessions."
+      ],
+      "correctAnswer": {
+        "index": 1,
+        "explanation": "HTTP est appelé un protocole sans état car le serveur ne stocke aucune information sur le client entre les requêtes."
       }
     }
   ]

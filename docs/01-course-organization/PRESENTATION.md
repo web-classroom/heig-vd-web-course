@@ -88,7 +88,7 @@ _paginate: false
 - Hadrien Louis
   - Assistant
   - He/Him
-  - 🀄
+  - 🀄🧗🏻‍♂️🎾🍫🧑‍💻
 
 ![bg right:60%](images/team.jpg)
 

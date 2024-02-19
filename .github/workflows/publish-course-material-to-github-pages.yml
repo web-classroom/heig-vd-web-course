@@ -59,18 +59,48 @@ jobs:
     runs-on: ubuntu-latest
     needs: build-course-material
     steps:
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./public
       - name: Download course-material
         uses: actions/download-artifact@v3
         with:
           name: course-material
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-      - name: Install packages
-        run: sudo apt install --yes tree
+      - uses: actions/cache@v3
+        with:
+          key: ${{ github.ref }}
+          path: .cache
 
-      - name: Generate index.html with tree
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
+
+      - name: Install Material for MkDocs dependencies
         run: |
-          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD WEB Course' -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
-
+          sudo apt install --yes \
+            libcairo2-dev \
+            libfreetype6-dev \
+            libffi-dev \
+            libjpeg-dev \
+            libpng-dev \
+            libz-dev
+          pip install \
+            cairosvg \
+            mkdocs-material \
+            mkdocs-minify-plugin \
+            mkdocs-git-revision-date-localized-plugin \
+            mkdocs-glightbox \
+            mkdocs-awesome-pages-plugin \
+            mkdocs_puml \
+            pillow
+      - name: Build Material for MkDocs
+        run: |
+          mkdocs build --config-file mkdocs.prod.yml --site-dir public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

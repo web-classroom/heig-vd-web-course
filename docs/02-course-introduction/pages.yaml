@@ -1,2 +1,2 @@
 nav:
-  - README.md
+  - ... | regex=^(COURSE_MATERIAL\.md|README\.md)$

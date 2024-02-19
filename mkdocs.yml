@@ -45,22 +45,14 @@ theme:
     - toc.follow
 plugins:
   - plantuml:
-      puml_url: http://localhost:8080
+      puml_url: http://plantuml:8080
       puml_keyword: plantuml
+  - glightbox
   - awesome-pages:
       filename: pages.yaml
       collapse_single_pages: true
-  - glightbox
   - search
   - tags
-  - social
-  - git-revision-date-localized:
-      type: datetime
-      enable_creation_date: true
-      fallback_to_build_date: true
-  # Order in plugins matters - this must be last
-  - minify:
-      minify_html: true
 extra:
   social:
     - icon: material/github

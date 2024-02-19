@@ -59,6 +59,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: build-course-material
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Download course-material
         uses: actions/download-artifact@v3
         with:

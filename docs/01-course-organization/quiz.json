@@ -1,6 +1,7 @@
 {
-  "name": "HEIG-VD WEB-A VGX Course - Quelques rappels sur DAI et POO", 
+  "name": "HEIG-VD WEB-A VGX Course - Quelques rappels sur DAI et POO",
   "description": "Ce quiz a pour but de vous remettre en mémoire les concepts de base de la programmation orientée objet et du développement d'applications internet.",
+  "tags": ["WEB"],
   "questions": [
     {
       "title": "Le protocole HTTP est un protocole de couche ?",

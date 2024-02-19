@@ -8,7 +8,6 @@
   "files.associations": {
     "*.pages": "plaintext"
   },
-
   "cSpell.language": "en,fr",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,

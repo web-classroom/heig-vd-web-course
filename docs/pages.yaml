@@ -1,0 +1,5 @@
+nav:
+  - Course:
+      - ... | regex=^\d{2}-course-.*/*
+  - Labo:
+      - ... | regex=^\d{2}-lab-.*/*

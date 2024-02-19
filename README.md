@@ -11,7 +11,7 @@ GitHub pages is available at
 <details open>
 <summary>Week 1</summary>
 
-- [1. Introduction and course organization](./01-introduction-and-course-organization/README.md)
+- [1. Introduction and course organization](./docs/01-introduction-and-course-organization/README.md)
 
 </details>
 <details>

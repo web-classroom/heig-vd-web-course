@@ -47,17 +47,18 @@ style: |
 -->
 
 [web]:
-  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/
+  https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/index.html
 [pdf]:
-  https://web-classroom.github.io/heig-vd-web-course/01-introduction-and-course-organization/01-introduction-and-course-organization-presentation.pdf
+  https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/01-course-organization-presentation.pdf
 [license]:
   https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
 [illustration]:
   https://images.unsplash.com/photo-1659328376647-52ec39d1a5cf?fit=crop&h=720
 [questions]:
   https://images.unsplash.com/photo-1548445929-4f60a497f851?fit=crop&h=720
+[unite]: https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169
 [source]:
-  https://github.com/web-classroom/heig-vd-web-course/blob/main/01-introduction-and-course-organization/PRESENTATION.md
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/docs/01-course-organization/PRESENTATION.md
 [apod]: https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg
 
 # Web Technologies
@@ -102,15 +103,6 @@ framework.
 
 ---
 
-## 🔄 Prerequisites
-
-- Object-oriented programming
-- Network programming (sockets, TCP, UDP, HTTP)
-
-![bg opacity:0.1][apod]
-
----
-
 ## 🛠️ Teaching tools
 
 - Slides on
@@ -144,6 +136,15 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
   game. (20%)
 - 2-3 evaluation, formats and dates to be defined (30%)
 - Final exam (50%)
+
+---
+
+## 🔄 Prerequisites
+
+- Object-oriented programming
+- Network programming (sockets, TCP, UDP, HTTP)
+
+![bg opacity:0.1][apod]
 
 ---
 

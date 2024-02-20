@@ -11,15 +11,11 @@ GitHub pages is available at
 <details open>
 <summary>Week 1</summary>
 
-- [1. Introduction and course organization](./docs/01-course-organization/README.md)
-
-</details>
-<details>
-<summary>Week 2</summary>
-
-- [Nothing yet](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-</details>
+- [1. Course organization](./docs/01-course-organization/README.md)
+- [Mentimeter](https://www.menti.com/alymv975842y)
+- [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169)
+- [Quiz](https://quiz.beescreens.ch/quiz?url=https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/quiz.json)
+- [Lab 0](https://classroom.github.com/a/n8pKgwaL)
 
 ## License
 

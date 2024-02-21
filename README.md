@@ -8,20 +8,23 @@ GitHub pages is available at
 
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
   for rendering and marking exercises.
-- [GitHub Discussions](https://github.com/web-classroom/heig-vd-web-course/discussions)
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions)
 
 ## Weeks
 
 <details open>
 <summary>Week 1</summary>
 
-- [1. Course organization](./docs/01-course-organization/README.md)
+- [1. Course organization](./docs/01-course-organization/README.md) ·
+  [PDF](https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/01-course-organization-presentation.pdf)
 - [Mentimeter](https://www.menti.com/alymv975842y)
 - [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169)
 - [Quiz](https://quiz.beescreens.ch/quiz?url=https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/quiz.json)
 - [Lab 0](https://classroom.github.com/a/LnwMbvsM)
-- [Introduction](https://web-classroom.github.io/slides/1-introduction.html)
-- [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)
+- [Introduction](https://web-classroom.github.io/slides/1-introduction.html) ·
+  [PDF](https://web-classroom.github.io/slides/1-introduction.html?print-pdf)
+- [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
+  [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
 
 ## License
 

@@ -27,7 +27,7 @@
       "title": "Quel protocole de transport utilise HTTP ?",
       "possibleAnswers": ["TCP", "UDP", "Les deux"],
       "correctAnswer": {
-        "index": 0,
+        "index": 2,
         "explanation": "HTTP 1.0, 1.1 et 2.0 utilisent le protocole TCP. HTTP/3 utilise QUIC, qui est basé sur UDP."
       }
     },

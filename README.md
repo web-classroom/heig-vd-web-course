@@ -20,6 +20,8 @@ GitHub pages is available at
 - [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169)
 - [Quiz](https://quiz.beescreens.ch/quiz?url=https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/quiz.json)
 - [Lab 0](https://classroom.github.com/a/LnwMbvsM)
+- [Introduction](https://web-classroom.github.io/slides/1-introduction.html)
+- [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)
 
 ## License
 

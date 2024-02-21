@@ -6,6 +6,10 @@ Switzerland.
 GitHub pages is available at
 [web-classroom.github.io/heig-vd-web-course](https://web-classroom.github.io/heig-vd-web-course).
 
+- [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
+  for rendering and marking exercises.
+- [GitHub Discussions](https://github.com/web-classroom/heig-vd-web-course/discussions)
+
 ## Weeks
 
 <details open>
@@ -15,7 +19,7 @@ GitHub pages is available at
 - [Mentimeter](https://www.menti.com/alymv975842y)
 - [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169)
 - [Quiz](https://quiz.beescreens.ch/quiz?url=https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/quiz.json)
-- [Lab 0](https://classroom.github.com/a/n8pKgwaL)
+- [Lab 0](https://classroom.github.com/a/LnwMbvsM)
 
 ## License
 

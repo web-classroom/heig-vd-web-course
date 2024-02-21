@@ -115,9 +115,9 @@ framework.
   - Generally in English.
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
   for rendering and marking exercises.
-- [GitHub Discussions](https://github.com/web-classroom/heig-vd-web-course/discussions)
-  for interaction, questions and feedback. If you need anonymity, send me an
-  email (`vincent.guidoux1@heig-vd.ch`).
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) for
+  interaction, questions and feedback. If you need anonymity, send me an email
+  (`vincent.guidoux1@heig-vd.ch`).
 - GAPS for assessment dates.
 
 ---

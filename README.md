@@ -8,7 +8,7 @@ GitHub pages is available at
 
 - [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
   for rendering and marking exercises.
-- [GitHub Discussions](https://github.com/web-classroom/heig-vd-web-course/discussions)
+- [GitHub Discussions](https://github.com/orgs/web-classroom/discussions)
 
 ## Weeks
 

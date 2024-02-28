@@ -30,6 +30,10 @@ GitHub pages is available at
 <details open>
 <summary>Week 2</summary>
 
+- Questions
+- GitHub discussions and tags
+- [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- Feedbacks
 - [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
 - [Lab 1](https://classroom.github.com/a/lRdvseJd)

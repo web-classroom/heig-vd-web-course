@@ -12,7 +12,7 @@ GitHub pages is available at
 
 ## Weeks
 
-<details open>
+<details>
 <summary>Week 1</summary>
 
 - [1. Course organization](./docs/01-course-organization/README.md) ·
@@ -25,6 +25,23 @@ GitHub pages is available at
   [PDF](https://web-classroom.github.io/slides/1-introduction.html?print-pdf)
 - [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
+
+</details>
+<details open>
+<summary>Week 2</summary>
+
+- [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
+  [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
+- [Lab 1](https://classroom.github.com/a/lRdvseJd)
+- [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Diner](https://flukeout.github.io/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Flexbox Froggy]
+- [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
+
+For the lab, if you complete all the tests, you can submit your work. But it will give you a 5.8. To have 6, you have to publish your work on GitHub Pages. Here's a workflow you can add to your `.github/workflows` folder to automatically publish your work on GitHub Pages: [https://github.com/actions/starter-workflows/blob/main/pages/static.yml](https://github.com/actions/starter-workflows/blob/main/pages/static.yml). Maybe you need to modify it a bit to fit your needs (look at the `path` variable). And Post a discussion here ([https://github.com/orgs/web-classroom/discussions](https://github.com/orgs/web-classroom/discussions)) when it's done, with the link of your GitHub Pages.
+
+</details>
 
 ## License
 

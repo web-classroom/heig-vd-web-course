@@ -1,7 +1,7 @@
 [markdown]:
-  https://web-classroom.github.io/heig-vd-web-course/blob/main/03-javascript/COURSE_MATERIAL.md
+  https://github.com/web-classroom/heig-vd-web-course/blob/main/docs/03-javascript/COURSE_MATERIAL.md
 [pdf]:
-  https://web-classroom.github.io/heig-vd-web-course/03-javascript/03-javascript-course-material.pdf
+  https://web-classroom.github.io/heig-vd-web-course/docs/03-javascript/03-javascript-course-material.pdf
 [license]:
   https://github.com/web-classroom/heig-vd-web-course/blob/main/LICENSE.md
 

@@ -51,9 +51,9 @@ this lab. Sorry for the confusion.
 
 The grading will be done by the GitHub Actions; if you pass all the tests, you
 can be eligible for the full grade, but if we see some code that is too
-complicated, we can reduce the grade a little, but you will have a feedback on
-your code. It is important to have a clean code. Do not forget to be simple and
-efficient.
+complicated, we can reduce the grade. You should not need more than one
+`position: absolute` and you do not need to use `position: relative` for this
+lab
 
 </details>
 

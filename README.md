@@ -27,7 +27,7 @@ GitHub pages is available at
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
 
 </details>
-<details open>
+<details>
 <summary>Week 2</summary>
 
 - Questions
@@ -43,7 +43,31 @@ GitHub pages is available at
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
 
-For the lab, if you complete all the tests, you can submit your work. But it will give you a 5.8. To have 6, you have to publish your work on GitHub Pages. Here's a workflow you can add to your `.github/workflows` folder to automatically publish your work on GitHub Pages: [https://github.com/actions/starter-workflows/blob/main/pages/static.yml](https://github.com/actions/starter-workflows/blob/main/pages/static.yml). Maybe you need to modify it a bit to fit your needs (look at the `path` variable). And Post a discussion here ([https://github.com/orgs/web-classroom/discussions](https://github.com/orgs/web-classroom/discussions)) when it's done, with the link of your GitHub Pages.
+For the lab, if you complete all the tests, you can submit your work. But it
+will give you a 5.8. To have 6, you have to publish your work on GitHub Pages.
+Here's a workflow you can add to your `.github/workflows` folder to
+automatically publish your work on GitHub Pages:
+[https://github.com/actions/starter-workflows/blob/main/pages/static.yml](https://github.com/actions/starter-workflows/blob/main/pages/static.yml).
+Maybe you need to modify it a bit to fit your needs (look at the `path`
+variable). And Post a discussion here
+([https://github.com/orgs/web-classroom/discussions](https://github.com/orgs/web-classroom/discussions))
+when it's done, with the link of your GitHub Pages.
+
+</details>
+
+<details open>
+<summary>Week 3</summary>
+
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [CSS Flex Generator](https://cssflex-generator.netlify.app/)
+- [MDN HTML Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/HTML)
+- [MDN CSS Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS)
+- [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+- [JavaScript](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)·[PDF](https://web-classroom.github.io/slides/3-foundations-of-javascript.html?print-pdf)
+- [Elevator Saga](https://regexone.com/)
+- [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)
+- [Js Is Weird](https://jsisweird.com/)
+- [RegexOne](https://regexone.com/)
 
 </details>
 

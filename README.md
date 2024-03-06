@@ -53,7 +53,9 @@ The grading will be done by the GitHub Actions; if you pass all the tests, you
 can be eligible for the full grade, but if we see some code that is too
 complicated, we can reduce the grade. You should not need more than one
 `position: absolute` and you do not need to use `position: relative` for this
-lab
+lab.
+
+The lab is due on the 12st of March at 22:00.
 
 </details>
 

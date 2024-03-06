@@ -64,7 +64,7 @@ when it's done, with the link of your GitHub Pages.
 - [MDN CSS Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS)
 - [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 - [JavaScript](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)·[PDF](https://web-classroom.github.io/slides/3-foundations-of-javascript.html?print-pdf)
-- [Elevator Saga](https://regexone.com/)
+- [Elevator Saga](https://play.elevatorsaga.com/)
 - [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)
 - [Js Is Weird](https://jsisweird.com/)
 - [RegexOne](https://regexone.com/)

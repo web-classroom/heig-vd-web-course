@@ -43,15 +43,17 @@ GitHub pages is available at
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
 
-For the lab, if you complete all the tests, you can submit your work. But it
-will give you a 5.8. To have 6, you have to publish your work on GitHub Pages.
-Here's a workflow you can add to your `.github/workflows` folder to
-automatically publish your work on GitHub Pages:
-[https://github.com/actions/starter-workflows/blob/main/pages/static.yml](https://github.com/actions/starter-workflows/blob/main/pages/static.yml).
-Maybe you need to modify it a bit to fit your needs (look at the `path`
-variable). And Post a discussion here
-([https://github.com/orgs/web-classroom/discussions](https://github.com/orgs/web-classroom/discussions))
-when it's done, with the link of your GitHub Pages.
+For the lab, do not forget to push your modifications to GitHub. The GitHub
+Actions will tell you if you passed all the tests.
+
+You do not have to publish your website on GitHub Pages; it is not possible for
+this lab. Sorry for the confusion.
+
+The grading will be done by the GitHub Actions; if you pass all the tests, you
+can be eligible for the full grade, but if we see some code that is too
+complicated, we can reduce the grade a little, but you will have a feedback on
+your code. It is important to have a clean code. Do not forget to be simple and
+efficient.
 
 </details>
 

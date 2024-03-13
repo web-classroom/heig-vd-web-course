@@ -59,7 +59,7 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-<details open>
+<details>
 <summary>Week 3</summary>
 
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
@@ -74,6 +74,18 @@ The lab is due on the 12st of March at 22:00.
 - [RegexOne](https://regexone.com/)
 
 </details>
+
+<details open>
+<summary>Week 4</summary>
+
+- [Object Oriented JavaScript](https://web-classroom.github.io/slides/4-object-oriented-javascript.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/4-object-oriented-javascript.html?print-pdf)
+- [MonsterJS](https://monsterjs.com/)
+- [Untrusted](https://alexnisnevich.github.io/untrusted/)
+- [2D Breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
+- [Test your skills: Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
+- [Lab](https://classroom.github.com/a/U67r2yge)
 
 ## License
 

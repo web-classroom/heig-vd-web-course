@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>requestAnimationFrame Example</title>
+    <style>
+      #some-element {
+        width: 100px;
+        height: 100px;
+        background-color: coral;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="some-element"></div>
+
+    <p>
+      For more information on <code>requestAnimationFrame()</code>, please visit
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame"
+        >MDN</a
+      >. Thanks to MDN for their valuable documentation.
+    </p>
+
+    <script>
+      const element = document.getElementById("some-element");
+      let start, previousTimeStamp;
+      let done = false;
+
+      function step(timeStamp) {
+        if (start === undefined) {
+          start = timeStamp;
+        }
+        const elapsed = timeStamp - start;
+
+        if (previousTimeStamp !== timeStamp) {
+          // Math.min() is used here to make sure the element stops at exactly 200px
+          const count = Math.min(0.1 * elapsed, 200);
+          element.style.transform = `translateX(${count}px)`;
+          if (count === 200) done = true;
+        }
+
+        if (elapsed < 2000) {
+          // Stop the animation after 2 seconds
+          previousTimeStamp = timeStamp;
+          if (!done) {
+            window.requestAnimationFrame(step);
+          }
+        }
+      }
+
+      window.requestAnimationFrame(step);
+    </script>
+  </body>
+</html>

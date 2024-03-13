@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Flasher</title>
+    <style>
+      .go {
+        color: green;
+      }
+      .stop {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="my_box">
+      <h3>Hello World</h3>
+    </div>
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+
+    <script>
+      // variable to store our intervalID
+      let nIntervId;
+
+      function changeColor() {
+        // check if an interval has already been set up
+        if (!nIntervId) {
+          nIntervId = setInterval(flashText, 1000);
+        }
+      }
+
+      function flashText() {
+        const oElem = document.getElementById("my_box");
+        oElem.className = oElem.className === "go" ? "stop" : "go";
+      }
+
+      function stopTextColor() {
+        clearInterval(nIntervId);
+        // release our intervalID from the variable
+        nIntervId = null;
+      }
+
+      document.getElementById("start").addEventListener("click", changeColor);
+      document.getElementById("stop").addEventListener("click", stopTextColor);
+    </script>
+
+    <footer>
+      <p>
+        For more information about <code>setInterval</code>, visit:
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/API/setInterval"
+          target="_blank"
+          rel="noopener noreferrer"
+          >MDN - setInterval</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>

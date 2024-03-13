@@ -11,9 +11,11 @@
 ## Marp, Pandoc and weasyprint
 
 # Outputs
-!./docs/99-examples/*.html
 *.html
 *.pdf
+
+# Examples
+!/docs/99-examples/*.html
 
 ## Windows
 

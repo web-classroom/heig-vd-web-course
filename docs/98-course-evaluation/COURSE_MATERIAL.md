@@ -2,16 +2,15 @@
 
 ## J'ai moins apprécié et je propose...
 
-- On passe trop vite sur la théorie
-- C'est un détail, mais parfois le prof regarde un peu trop le beamer dans ses
-  explications.
-- La manière dont est donnée le cours
-- Le cours semble avoir été pensé pour des personnes ayant déjà de l'expérience
-  en développement web (suite après)
-- laisser plus de temps en classe pour faire les exercices proposés qui sont
-  vraiment bien.
+> On passe trop vite sur la théorie
 
-## J'ai moins apprécié et je propose... (plus)
+> C'est un détail, mais parfois le prof regarde un peu trop le beamer dans ses
+> explications.
+
+> La manière dont est donnée le cours
+
+> laisser plus de temps en classe pour faire les exercices proposés qui sont
+> vraiment bien.
 
 > Je connaissais déjà mais pour les autres je pense que ça aurait très utile de
 > faire une démonstration de comment bien utiliser les DevTools (sur Firefox
@@ -84,14 +83,91 @@
 >    vous mettant en avant, devant la classe, ça nous rend plus attentifs et
 >    impliqués.
 
-- (suite), du moins en ce qui concerne la partie HTML/CSS, ou alors en partant
-  du principe que les personnes allaient s'auto-former de leur côté en dehors du
-  cours. De plus il y a souvent des mentions de bonnes pratiques sans jamais les
-  avoir mentionnées clairement (utilisation de position relative vs
-  flexbox/grid, intérêt des différentes balises HTML, etc.).
-- La théorie est vue presque trop rapidement, surtout si on n'a pas ou peu de
-  connaissance
-- Je propose donc de laisser plus de temps en classe pour s'exercer et faire
-  plus de pratique une fois la théorie vu en classe.
+> Le cours semble avoir été pensé pour des personnes ayant déjà de l'expérience
+> en développement web, du moins en ce qui concerne la partie HTML/CSS, ou alors
+> en partant du principe que les personnes allaient s'auto-former de leur côté
+> en dehors du cours. De plus il y a souvent des mentions de bonnes pratiques
+> sans jamais les avoir mentionnées clairement (utilisation de position relative
+> vs flexbox/grid, intérêt des différentes balises HTML, etc.).
 
-Aller un peu moins vite pendant la théorie.
+> La théorie est vue presque trop rapidement, surtout si on n'a pas ou peu de
+> connaissance
+
+> Je propose donc de laisser plus de temps en classe pour s'exercer et faire
+> plus de pratique une fois la théorie vu en classe.
+
+> Aller un peu moins vite pendant la théorie.
+
+## J'ai particulièrement apprécié...
+
+> le fait d'avoir des petits bouts de théorie sans faire 1h30 de théorie de
+> suite.
+
+> Au delà de ça, vous êtes un prof agréable et vous (prof et assistant) êtes
+> très aidants pour les TPs.
+
+> Vous avez une personnalité appréciable et tout ce qu'il faut pour me donner
+> envie de suivre votre cours
+
+> Le fait d'être assez libre dans notre gestion du temps
+
+> Le temps pour le labo était bien
+
+> le cours et sinon très bien.
+
+> Beaucoup de pratiques avec des exemples et documentation complète
+
+> Vous prenez les avis / commentaires / questions / propositions de manière très
+> ouverte, ce qui est génial! Je sens que vous ^etes impliqué dans ce ue vous
+> faites.
+
+> Les petits jeux pour apprendre le CSS et le JS, c'est une manière sympa de
+> découvrir/entraîner de nouveaux concepts visuellement. C'est motivant
+> d'apprendre le CSS avec le jeu des grenouilles plutôt que de voir chaque
+> propriété et sa définition. Le fait d'avoir des tests automatisés pour valider
+> notre labo ! Le cours sous licence libre :) Faire 2/3 tiers de temps de labo
+> au total, comme on peut avoir de l'aide, c'est un bon moyen de pouvoir
+> pratiquer le HTML et CSS sur ces 2 premiers labos.
+
+> J'aime bien avoir la théorie le matin et le labo l'après-midi car cela me
+> permet de rentrer chez moi l'après-midi et de travailler plus confortablement
+> le labo sur un setup bien plus confortable.
+
+## Le cours est
+
+> Trop théorique
+
+> Adapté 4x
+
+> Trop pratique
+
+## Le rythme du cours est
+
+> Trop rapide 4x
+
+> Adapté 3x
+
+## J'ai l'impression d'avoir appris des éléments qui me seront utiles dans ma formation et pour mon futur
+
+> Plutôt oui 4x
+
+> Plutôt non 2x
+
+> Oui 1x
+
+## Autres remarques et commentaires
+
+> Je suis désolé pour le long pavé de choses négatives, je n'ai aucune envie
+> d'^etre blessant, mais constructif et honn^ete
+
+> En résumé: Votre personnalité et vos qualités me donnent envie de venir voir
+> votre cours La manière dont le cours est donné me donne envie de rester à la
+> maison.
+
+> Le fait d'apprendre plein de chose en CSS et un peu en JS, alors que j'en fais
+> depuis quelques années, en se poussant en dehors de sa zone de confort de ce
+> qu'on a l'habitude. De voir que les labos sont améliorés avec nos inputs.
+
+> Je pense que le cours est adapté pour la majorité des gens mais il vrai que
+> pour quelqu'un qui n'a jamais fait de web dans sa vie, le rythme est trop
+> rapide.

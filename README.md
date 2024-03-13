@@ -87,6 +87,7 @@ The lab is due on the 12st of March at 22:00.
 - [MDN JavaScript Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 - [MDN Canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas)
 - [RequestAnimationFrame example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/requestAnimationFrameExample.html)
+- [SetInterval example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/setIntervalExample.html)
 
 ### Practice
 

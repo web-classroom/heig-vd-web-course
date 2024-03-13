@@ -81,11 +81,15 @@ The lab is due on the 12st of March at 22:00.
 - [Object Oriented JavaScript](https://web-classroom.github.io/slides/4-object-oriented-javascript.html)
   ·
   [PDF](https://web-classroom.github.io/slides/4-object-oriented-javascript.html?print-pdf)
+- [MDN JavaScript Object Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [MDN JavaScript Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
+- [MDN Canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas)
 - [MonsterJS](https://monsterjs.com/)
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [2D Breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 - [Test your skills: Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
-- [Lab](https://classroom.github.com/a/U67r2yge)
+- [Lab](https://classroom.github.com/a/U67r2yge) ·
+  [Description](https://web-classroom.github.io/labos/labo-2-tetris-1.html)
 
 ## License
 

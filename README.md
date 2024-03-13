@@ -78,12 +78,17 @@ The lab is due on the 12st of March at 22:00.
 <details open>
 <summary>Week 4</summary>
 
+### Theory
+
 - [Object Oriented JavaScript](https://web-classroom.github.io/slides/4-object-oriented-javascript.html)
   ·
   [PDF](https://web-classroom.github.io/slides/4-object-oriented-javascript.html?print-pdf)
 - [MDN JavaScript Object Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 - [MDN JavaScript Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 - [MDN Canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas)
+
+### Practice
+
 - [MonsterJS](https://monsterjs.com/)
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [2D Breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)

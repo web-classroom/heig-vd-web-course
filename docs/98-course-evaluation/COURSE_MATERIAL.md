@@ -38,7 +38,7 @@
 > 2. Vous sautez ou "rushez" des slides. Dans le cours du 12 mars, vous avez
 >    complètement skippé le chapitre sur les prototypes. C'est dommage, je vais
 >    devoir relire le cours à la maison... Beaucoup de slides sont passées
->    extr^ement vite, je n'ai pas le temps d'assimiler ce qu'il y a sur la slide
+>    extrêment vite, je n'ai pas le temps d'assimiler ce qu'il y a sur la slide
 >    qu'elle est deja passée.
 > 3. Vous n'expliquez pas par oral le contenu des slides, vous résumez beaucoup.
 >    C'est dommage, car ça m'oblige de tout relire à la maison parce que j'ai
@@ -46,7 +46,7 @@
 > 4. Je ne sais pas ce qui est important et ce qui est accessoire. ça me
 >    permettrait de mettre plus d'énergie lors des révisions sur les choses
 >    importantes et moins sur les choses accessoire. Du coup, je vais devoir
->    tout apprendre avec le m^eme niveau de priorité, m^eme les sujets qui ne
+>    tout apprendre avec le même niveau de priorité, même les sujets qui ne
 >    seront pas évalués.
 >
 > Conséquences:
@@ -54,7 +54,7 @@
 > Je ne sens pas le besoin de venir en cours car tout est dans les slides, et
 > une bonne partie de ces dernières sont skippées... Je peux lire tout ça chez
 > moi. Malheureusement, (je ne veut pas etre méchant, je vous apprécie beaucoup)
-> vous n'apportez pas de plus value au cours, et malheureusement, m^eme une
+> vous n'apportez pas de plus value au cours, et malheureusement, même une
 > "moins-value", car vous rushez le cours lors de votre présentation, ce qui
 > m'oblige à revoir la matière dans un second temps.
 >
@@ -118,7 +118,7 @@
 > Beaucoup de pratiques avec des exemples et documentation complète
 
 > Vous prenez les avis / commentaires / questions / propositions de manière très
-> ouverte, ce qui est génial! Je sens que vous ^etes impliqué dans ce ue vous
+> ouverte, ce qui est génial! Je sens que vous êtes impliqué dans ce ue vous
 > faites.
 
 > Les petits jeux pour apprendre le CSS et le JS, c'est une manière sympa de
@@ -158,7 +158,7 @@
 ## Autres remarques et commentaires
 
 > Je suis désolé pour le long pavé de choses négatives, je n'ai aucune envie
-> d'^etre blessant, mais constructif et honn^ete
+> d'être blessant, mais constructif et honnête
 
 > En résumé: Votre personnalité et vos qualités me donnent envie de venir voir
 > votre cours La manière dont le cours est donné me donne envie de rester à la

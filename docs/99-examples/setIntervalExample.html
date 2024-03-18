@@ -11,12 +11,15 @@
       .stop {
         color: red;
       }
+
+      .reversed {
+        display: flex;
+        flex-direction: column-reverse;
+      }
     </style>
   </head>
   <body>
-    <div id="my_box">
-      <h3>Hello World</h3>
-    </div>
+    <div id="my_box"><span>Hello</span> <span>World</span></div>
     <button id="start">Start</button>
     <button id="stop">Stop</button>
 
@@ -33,7 +36,12 @@
 
       function flashText() {
         const oElem = document.getElementById("my_box");
-        oElem.className = oElem.className === "go" ? "stop" : "go";
+        if (oElem.classList.contains("go")) {
+          oElem.classList.toggle("stop");
+        } else {
+          oElem.classList.toggle("go");
+        }
+        oElem.classList.toggle("reversed");
       }
 
       function stopTextColor() {

@@ -75,7 +75,7 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-<details open>
+<details>
 <summary>Week 4</summary>
 
 ### Theory
@@ -97,6 +97,29 @@ The lab is due on the 12st of March at 22:00.
 - [Test your skills: Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
 - [Lab](https://classroom.github.com/a/U67r2yge) ·
   [Description](https://web-classroom.github.io/labos/labo-2-tetris-1.html)
+
+</details>
+
+<details open>
+<summary>Week 5</summary>
+
+- [Course Evaluation](https://github.com/web-classroom/heig-vd-web-course/tree/main/docs/98-course-evaluation)
+
+### Theory
+
+- [Testing JavaScript Applications](https://web-classroom.github.io/slides/5-testing-javascript-applications.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/5-testing-javascript-applications.html?print-pdf)
+- [Discussion: Variable scopes](https://github.com/orgs/web-classroom/discussions/49)
+- [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+### Practice
+
+- [Question 11](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelect.html)
+  ·
+  [Solution](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelectSolution.html)
+
+</details>
 
 ## License
 

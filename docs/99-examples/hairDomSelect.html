@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>requestAnimationFrame Example</title>
+    <style>
+      html {
+        padding: 10px;
+        --button-background: #eef;
+        --button-hover-background: #dde;
+        --highlighted-li-background: #ffa;
+      }
+
+      #people_list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 0;
+      }
+
+      li {
+        list-style: none;
+        padding: 10px;
+        background: whitesmoke;
+        border-radius: 5px;
+      }
+
+      #metadata {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px;
+      }
+
+      button {
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        background: var(--button-background);
+      }
+
+      button:hover {
+        background: var(--button-hover-background);
+      }
+
+      .selected {
+        background: var(--highlighted-li-background);
+      }
+    </style>
+  </head>
+  <body>
+    <ul id="people_list">
+      <li hair="brown">Jessie</li>
+      <li hair="blonde">Blake</li>
+      <li hair="brown">Charlie</li>
+      <li hair="gray">Parker</li>
+    </ul>
+
+    <div id="metadata">
+      <button class="brown" onclick="show('brown')">Brown hair</button>
+      <button class="blonde" onclick="show('blonde')">Blonde hair</button>
+      <button class="reset" onclick="reset()">Reset</button>
+    </div>
+    <script>
+      function show(color) {
+        // TODO
+      }
+
+      function reset() {
+        // TODO
+      }
+    </script>
+  </body>
+</html>

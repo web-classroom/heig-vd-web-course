@@ -112,6 +112,8 @@ The lab is due on the 12st of March at 22:00.
   [PDF](https://web-classroom.github.io/slides/5-testing-javascript-applications.html?print-pdf)
 - [Discussion: Variable scopes](https://github.com/orgs/web-classroom/discussions/49)
 - [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### Practice
 

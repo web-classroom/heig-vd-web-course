@@ -100,7 +100,7 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-<details open>
+<details>
 <summary>Week 5</summary>
 
 - [Course Evaluation](https://github.com/web-classroom/heig-vd-web-course/tree/main/docs/98-course-evaluation)
@@ -122,7 +122,24 @@ The lab is due on the 12st of March at 22:00.
   [Solution](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelectSolution.html)
 
 </details>
+<details open>
+<summary>Week 6</summary>
 
+### Theory
+
+- [Client Server applications](https://web-classroom.github.io/slides/6-client-server-applications.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/6-client-server-applications.html?print-pdf)
+- [Complete introduction to the most useful JavaScript array methods](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
+- [W3Schools JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+- [MDN JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+### Practice
+
+- [Create a media player application](https://docs.beescreens.ch/tutorials/create-a-media-player-application/chapter-1-initialize-the-project-with-nestjs/)
+  · [Result](https://mp.beescreens.ch/slideshows)
+
+</details>
 ## License
 
 This work is licensed under a

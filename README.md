@@ -140,6 +140,15 @@ The lab is due on the 12st of March at 22:00.
   · [Result](https://mp.beescreens.ch/slideshows)
 
 </details>
+
+<details open>
+<summary>Week 7</summary>
+
+- [Lab](https://classroom.github.com/a/Hcc7glqC) ·
+  [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
+
+</details>
+
 ## License
 
 This work is licensed under a

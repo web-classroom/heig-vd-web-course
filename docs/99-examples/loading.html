@@ -1,0 +1,91 @@
+<html>
+<head>
+    <style>
+      .container {
+        height: 100%;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+      }
+
+      button {
+        background: whitesmoke;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        background: gray;
+      }
+      
+      input {
+        width: 100%;
+        padding: 5px 10px;
+        box-sizing: border-box;
+        border: 1px solid gray;
+        border-radius: 5px;
+      }
+      
+      .icon {
+        height: 1em;
+        vertical-align: middle;
+      }
+      
+      #loading_screen {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background: rgba(255, 255, 255, 0.5);
+      }
+      
+      #loading_screen.hidden {
+        display: none;
+      }
+      
+      #loading_screen img {
+        width: 40px;
+        height: 40px;
+      }
+    </style>
+<body>
+    <div class="container">
+        <div class="load_section">
+            <p>Cliquez sur le bouton ci-dessous
+            pour lancer l'écran de chargement</p>
+            <button onclick="launch_load()">
+                <img class="icon" src="https://cdn0.iconfinder.com/data/icons/glyphpack/41/refresh-512.png"/>
+                Load
+            </button>
+        </div>
+        
+        <div class="interact_section">
+            <p>Toute intéraction doit être impossible
+            durant le chargement. Par exemple,
+            le champ suivant ne devrait pas être
+            intéractible</p>
+            <input type="text"/>
+        </div>
+    </div>
+
+    <div id="loading_screen" class="hidden">
+        <img src="https://i.gifer.com/ZKZg.gif"/>
+    </div>
+</body>
+</html>
+<script>
+  function launch_load() {
+    let screen = document.querySelector("#loading_screen")
+    screen.classList.remove("hidden");
+  
+    setTimeout(() => {
+        screen.classList.add("hidden");
+    }, 2000);
+  }
+</script>

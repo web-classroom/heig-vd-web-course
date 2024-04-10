@@ -144,8 +144,21 @@ The lab is due on the 12st of March at 22:00.
 <details open>
 <summary>Week 7</summary>
 
+### Theory
+
+- [Network
+  Programming]((https://web-classroom.github.io/slides/7-network-programming.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
+  · [PDF](https://web-classroom.github.io/slides/7-websockets.html?print-pdf)
+
+### Practice
+
 - [Lab](https://classroom.github.com/a/Hcc7glqC) ·
   [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
+- [example-chat](https://github.com/web-classroom/example-chat)
+- [loading example, wait to look at it please](-
+  [RequestAnimationFrame example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html))
 
 </details>
 

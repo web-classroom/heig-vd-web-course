@@ -15,6 +15,8 @@ GitHub pages is available at
 <details>
 <summary>Week 1</summary>
 
+### Theory
+
 - [1. Course organization](./docs/01-course-organization/README.md) ·
   [PDF](https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/01-course-organization-presentation.pdf)
 - [Mentimeter](https://www.menti.com/alymv975842y)
@@ -30,14 +32,19 @@ GitHub pages is available at
 <details>
 <summary>Week 2</summary>
 
+### Theory
+
 - Questions
 - GitHub discussions and tags
 - [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - Feedbacks
 - [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
-- [Lab 1](https://classroom.github.com/a/lRdvseJd)
 - [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Practice
+
+- [Lab 1](https://classroom.github.com/a/lRdvseJd)
 - [CSS Diner](https://flukeout.github.io/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -62,12 +69,17 @@ The lab is due on the 12st of March at 22:00.
 <details>
 <summary>Week 3</summary>
 
+### Theory
+
+- [JavaScript](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)·[PDF](https://web-classroom.github.io/slides/3-foundations-of-javascript.html?print-pdf)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [CSS Flex Generator](https://cssflex-generator.netlify.app/)
 - [MDN HTML Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/HTML)
 - [MDN CSS Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS)
 - [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
-- [JavaScript](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)·[PDF](https://web-classroom.github.io/slides/3-foundations-of-javascript.html?print-pdf)
+
+### Practice
+
 - [Elevator Saga](https://play.elevatorsaga.com/)
 - [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)
 - [Js Is Weird](https://jsisweird.com/)
@@ -122,7 +134,7 @@ The lab is due on the 12st of March at 22:00.
   [Solution](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelectSolution.html)
 
 </details>
-<details open>
+<details>
 <summary>Week 6</summary>
 
 ### Theory
@@ -146,19 +158,26 @@ The lab is due on the 12st of March at 22:00.
 
 ### Theory
 
-- [Network
-  Programming]((https://web-classroom.github.io/slides/7-network-programming.html)
+- [Network Programming](https://web-classroom.github.io/slides/7-network-programming.html)
   ·
   [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
-  · [PDF](https://web-classroom.github.io/slides/7-websockets.html?print-pdf)
+- [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 
 ### Practice
 
 - [Lab](https://classroom.github.com/a/Hcc7glqC) ·
   [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
 - [example-chat](https://github.com/web-classroom/example-chat)
-- [loading example, wait to look at it please](-
-  [RequestAnimationFrame example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html))
+- [loading example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html)
+- [Exercises: CSS Transitions and Animations](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations)
+- [Exercises: Basic HTML, CSS, JavaScript](https://codepen.io/jorgecardoso/post/0-basics-html-css-javascript)
+- [JavaScript Array Exercise](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
+- [Test your skill: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
+- [Test your skill: Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops)
+- [Test your skill: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Arrays)
+- [Map, Filter, Reduce - Code Exercises](https://www.crocoder.dev/blog/map-filter-reduce-exercises/)
+- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+- [JavaScript Array Methods Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods1)
 
 </details>
 

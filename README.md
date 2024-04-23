@@ -153,7 +153,7 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-<details open>
+<details>
 <summary>Week 7</summary>
 
 ### Theory
@@ -178,6 +178,33 @@ The lab is due on the 12st of March at 22:00.
 - [Map, Filter, Reduce - Code Exercises](https://www.crocoder.dev/blog/map-filter-reduce-exercises/)
 - [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 - [JavaScript Array Methods Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods1)
+
+</details>
+
+<details open>
+<summary>Week 9</summary>
+
+### Theory
+
+- [Asynchronous Programming](https://web-classroom.github.io/slides/8-async.html)
+  · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
+- [MDN Asynchronous Concepts](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
+- [MDN Introducing asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+- [MDN Async Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+- [MDN Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+- [MDN Callbacks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
+- [MDN JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+### Practice
+
+- [Lab](https://classroom.github.com/a/EwpFDAH8) ·
+  [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+- [Practical : JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises)
+- [Practical : JavaScript Asynchronous](https://www.w3schools.com/js/js_asynchronous.asp)
+- [Practical : JavaScript Async](https://www.w3schools.com/js/js_async.asp)
+- [Practical : JavaScript Promise](https://www.w3schools.com/js/js_promise.asp)
+- [Practical : JavaScript Callback](https://www.w3schools.com/js/js_callback.asp)
+- [Practical : JavaScript Promises Exercises](https://www.crocoder.dev/blog/promises-exercises/)
 
 </details>
 

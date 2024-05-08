@@ -207,7 +207,7 @@ The lab is due on the 12st of March at 22:00.
 - [Practical : JavaScript Promises Exercises](https://www.crocoder.dev/blog/promises-exercises/)
 
 </details>
-<details open>
+<details>
 <summary>Week 10</summary>
 
 ### Theory
@@ -225,6 +225,20 @@ The lab is due on the 12st of March at 22:00.
   [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
 - [XSS - pwwn() warmup](https://xss.pwnfunction.com/warmups/)
 - [XSS - game](https://xss-game.appspot.com/)
+
+</details>
+<details open>
+<summary>Week 11</summary>
+
+### Theory
+
+- [Security](https://web-classroom.github.io/slides/9-security.html) ·
+  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf
+
+### Practice
+
+- [Lab](https://classroom.github.com/a/Nx5uMN_1) ·
+  [Description](https://web-classroom.github.io/labos/labo-7-security.html)
 
 </details>
 

@@ -227,7 +227,7 @@ The lab is due on the 12st of March at 22:00.
 - [XSS - game](https://xss-game.appspot.com/)
 
 </details>
-<details open>
+<details>
 <summary>Week 11</summary>
 
 ### Theory
@@ -239,6 +239,73 @@ The lab is due on the 12st of March at 22:00.
 
 - [Lab](https://classroom.github.com/a/Nx5uMN_1) ·
   [Description](https://web-classroom.github.io/labos/labo-7-security.html)
+
+</details>
+
+        <!-- <li>
+          React essentials (<a href="./slides/11-react-essentials.html">web</a>,
+          <a href="./slides/11-react-essentials.html?print-pdf">print</a>)
+        </li>
+        <ul>
+          <li>
+            <a href="https://www.w3schools.com/react/react_useeffect.asp"
+              >React `useEffect` Hooks</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/chapter-1-initialize-the-frontend-project-with-nextjs/"
+              >Create an interactive drawing application with a frontend and a
+              backend</a
+            >
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=wIyHSOugGGw">
+              Every React Concept Explained in 12 Minutes</a
+            >
+          </li>
+          <li>
+            <a href="https://react.dev/learn/tutorial-tic-tac-toe"
+              >React Tutorial: Tic Tac Toe</a
+            >
+          </li>
+          <li>
+            <a href="https://react.dev/learn"> React: Quick Start</a>
+          </li>
+          <li>
+            <a
+              href="https://react.dev/reference/react/useEffect#examples-dependencies"
+            >
+              React `useEffect` Examples</a
+            >
+          </li>
+          <li>
+            <a href="https://nextjs.org/learn/dashboard-app"
+              >Next.js Tutorial: Dashboard App</a
+            >
+          </li>
+        </ul> -->
+
+<details open>
+<summary>Week 12</summary>
+
+### Theory
+
+- [React Essentials](https://web-classroom.github.io/slides/11-react-essentials.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/11-react-essentials.html?print-pdf)
+- [React `useEffect` Hooks](https://www.w3schools.com/react/react_useeffect.asp)
+- [React `useEffect` Examples](https://react.dev/reference/react/useEffect#examples-dependencies)
+- [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
+
+### Practice
+
+- [Lab](https://classroom.github.com/a/VQehqnE6) ·
+  [Description](https://web-classroom.github.io/labos/labo-libre.html)
+- [Create an interactive drawing application with a frontend and a backend](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/chapter-1-initialize-the-frontend-project-with-nextjs/)
+- [React Tutorial: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+- [React: Quick Start](https://react.dev/learn)
+- [Next.js Tutorial: Dashboard App](https://nextjs.org/learn/dashboard-app)
 
 </details>
 

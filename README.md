@@ -233,14 +233,6 @@ The lab is due on the 12st of March at 22:00.
 
 ### Theory
 
-- [Asynchronous Programming](https://web-classroom.github.io/slides/10-frontend-frameworks.html)
-</details>
-
-<details>
-<summary>Week 12</summary>
-
-### Theory
-
 - [Security](https://web-classroom.github.io/slides/9-security.html) ·
   [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 
@@ -249,6 +241,14 @@ The lab is due on the 12st of March at 22:00.
 - [Lab](https://classroom.github.com/a/Nx5uMN_1) ·
   [Description](https://web-classroom.github.io/labos/labo-7-security.html)
 
+</details>
+
+<details>
+<summary>Week 12</summary>
+
+### Theory
+
+- [Frontend Framework](https://web-classroom.github.io/slides/10-frontend-frameworks.html)
 </details>
 
 <details>

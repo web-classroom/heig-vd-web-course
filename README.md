@@ -95,7 +95,7 @@ The lab is due on the 12st of March at 22:00.
 - [Object Oriented JavaScript](https://web-classroom.github.io/slides/4-object-oriented-javascript.html)
   ·
   [PDF](https://web-classroom.github.io/slides/4-object-oriented-javascript.html?print-pdf)
-- [MDN JavaScript Object Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [MDN JavaScript Object Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects./slides/10-frontend-frameworks.html/Object_prototypes)
 - [MDN JavaScript Object-oriented programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 - [MDN Canvas](https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas)
 - [RequestAnimationFrame example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/requestAnimationFrameExample.html)
@@ -217,7 +217,7 @@ The lab is due on the 12st of March at 22:00.
   · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
 - [Security](https://web-classroom.github.io/slides/9-security.html) ·
-  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf
+  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 
 ### Practice
 
@@ -227,13 +227,22 @@ The lab is due on the 12st of March at 22:00.
 - [XSS - game](https://xss-game.appspot.com/)
 
 </details>
+
 <details>
 <summary>Week 11</summary>
 
 ### Theory
 
+- [Asynchronous Programming](https://web-classroom.github.io/slides/10-frontend-frameworks.html)
+</details>
+
+<details>
+<summary>Week 12</summary>
+
+### Theory
+
 - [Security](https://web-classroom.github.io/slides/9-security.html) ·
-  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf
+  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 
 ### Practice
 
@@ -242,52 +251,8 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-        <!-- <li>
-          React essentials (<a href="./slides/11-react-essentials.html">web</a>,
-          <a href="./slides/11-react-essentials.html?print-pdf">print</a>)
-        </li>
-        <ul>
-          <li>
-            <a href="https://www.w3schools.com/react/react_useeffect.asp"
-              >React `useEffect` Hooks</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/chapter-1-initialize-the-frontend-project-with-nextjs/"
-              >Create an interactive drawing application with a frontend and a
-              backend</a
-            >
-          </li>
-          <li>
-            <a href="https://www.youtube.com/watch?v=wIyHSOugGGw">
-              Every React Concept Explained in 12 Minutes</a
-            >
-          </li>
-          <li>
-            <a href="https://react.dev/learn/tutorial-tic-tac-toe"
-              >React Tutorial: Tic Tac Toe</a
-            >
-          </li>
-          <li>
-            <a href="https://react.dev/learn"> React: Quick Start</a>
-          </li>
-          <li>
-            <a
-              href="https://react.dev/reference/react/useEffect#examples-dependencies"
-            >
-              React `useEffect` Examples</a
-            >
-          </li>
-          <li>
-            <a href="https://nextjs.org/learn/dashboard-app"
-              >Next.js Tutorial: Dashboard App</a
-            >
-          </li>
-        </ul> -->
-
-<details open>
-<summary>Week 12</summary>
+<details>
+<summary>Week 13</summary>
 
 ### Theory
 
@@ -306,6 +271,21 @@ The lab is due on the 12st of March at 22:00.
 - [React Tutorial: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React: Quick Start](https://react.dev/learn)
 - [Next.js Tutorial: Dashboard App](https://nextjs.org/learn/dashboard-app)
+
+</details>
+<details open>
+<summary>Week 14</summary>
+
+### Theory
+
+- [Typescript](https://web-classroom.github.io/slides/13-typescript.html) ·
+  [PDF](https://web-classroom.github.io/slides/13-typescript.html?print-pdf)
+- [TypeScript - MDN glossary](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
+
+### Practice
+
+- [TypeScript Playground](https://www.typescriptlang.org/play)
+- [TypeScript Exercises](https://typescript-exercises.github.io/)
 
 </details>
 

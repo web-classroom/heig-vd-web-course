@@ -286,7 +286,7 @@ The lab is due on the 12st of March at 22:00.
 
 - [TypeScript Playground](https://www.typescriptlang.org/play)
 - [TypeScript Exercises](https://typescript-exercises.github.io/)
-- [Fixing X is not Assignable to Y](https://www.totaltypescript.com/tutorials/solving-typescript-errors/errors/fixing-x-is-not-assignable-to-y/exercise)
+- [Solving TypeScript Errors](https://www.totaltypescript.com/tutorials/solving-typescript-errors/errors/fixing-x-is-not-assignable-to-y/exercise)
 
 </details>
 

@@ -273,7 +273,7 @@ The lab is due on the 12st of March at 22:00.
 - [Next.js Tutorial: Dashboard App](https://nextjs.org/learn/dashboard-app)
 
 </details>
-<details open>
+<details>
 <summary>Week 14</summary>
 
 ### Theory
@@ -289,6 +289,18 @@ The lab is due on the 12st of March at 22:00.
 - [Solving TypeScript Errors](https://www.totaltypescript.com/tutorials/solving-typescript-errors/errors/fixing-x-is-not-assignable-to-y/exercise)
 
 </details>
+
+<details open>
+<summary>Week 16</summary>
+
+### Theory
+
+<!-- https://web-classroom.github.io/slides/2-html-css.html#/13 -->
+
+- [Media Queries](https://web-classroom.github.io/slides/2-html-css.html#/13)
+- [Media queries - CSS : Feuilles de style en cascade | MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [Prototype](https://web-classroom.github.io/slides/4-object-oriented-javascript.html#/3/5)
+- [Prototypes Objet - Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 ## License
 

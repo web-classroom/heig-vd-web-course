@@ -86,12 +86,8 @@ _paginate: false
   - Lecturer
   - He/Him
   - 🎭🚲🌿🖖🎶
-- Hadrien Louis
-  - Assistant
-  - He/Him
-  - 🀄🧗🏻‍♂️🎾🍫🧑‍💻
 
-![bg right:60%](images/team.jpg)
+![bg right:60%](images/solo.jpg)
 
 ---
 
@@ -105,6 +101,14 @@ framework.
 
 ## Philosophy
 
+Consistency between what is said, what is done and what is evaluated.
+
+Transparency.
+
+Efficiency
+
+Kindness
+
 ---
 
 ## 🛠️ Teaching tools
@@ -113,8 +117,8 @@ framework.
   [https://web-classroom.github.io/heig-vd-web-course/](https://web-classroom.github.io/heig-vd-web-course/)
   in Web or PDF version, with lecture notes.
   - Generally in English.
-- [GitHub Classroom](https://classroom.github.com/classrooms/54867215-web-classroom-spring-24-vgx)
-  for rendering and marking exercises.
+- [GitHub Classroom](https://classroom.github.com/a/a7u9prIt) for rendering and
+  marking exercises.
 - [GitHub Discussions](https://github.com/orgs/web-classroom/discussions) for
   interaction, questions and feedback. If you need anonymity, send me an email
   (`vincent.guidoux1@heig-vd.ch`).
@@ -124,9 +128,10 @@ framework.
 
 ## 📅 Session format
 
-Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
+Thursday 18:30, 3 periods & Friday 18:30, 3 periods
 
 - Correcting the lab and answering questions raised on Github Discussions
+- A lot of discussions around code examples
 - Quick quiz (not marked)
 - Theoretical course with some hands-on
 - Lab
@@ -136,10 +141,8 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
 ## 🏅 Notation
 
-- 6-8 labs, 4 of which build on the previous one to create an online multiplayer
-  game. (20%)
-- 2-3 evaluation, formats and dates to be defined (30%)
-- Final exam (50%)
+- 6 labs. (33%)
+- 3 evaluation, formats and dates to be defined (67%)
 
 ---
 
@@ -149,10 +152,14 @@ Wednesday 09:15, 3 periods & Wednesday 14:55, 3 periods
 
 ---
 
-## 🔄 Prerequisites
+<!-- You -->
 
-- Object-oriented programming
-- Network programming (sockets, TCP, UDP, HTTP)
+## 🫂 You
+
+- Firstname
+- Web experience
+- Expectations
+- (A thing you liked this week)
 
 ![bg opacity:0.1][apod]
 

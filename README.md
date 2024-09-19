@@ -12,21 +12,27 @@ GitHub pages is available at
 
 ## Weeks
 
-<details>
+<details open>
 <summary>Week 1</summary>
 
 ### Theory
 
 - [1. Course organization](./docs/01-course-organization/README.md) ·
   [PDF](https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/01-course-organization-presentation.pdf)
-- [Mentimeter](https://www.menti.com/alymv975842y)
-- [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7169)
-- [Quiz](https://quiz.beescreens.ch/quiz?url=https://web-classroom.github.io/heig-vd-web-course/docs/01-course-organization/quiz.json)
-- [Lab 0](https://classroom.github.com/a/LnwMbvsM)
+- [Fiche d'unité](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=7418)
 - [Introduction](https://web-classroom.github.io/slides/1-introduction.html) ·
   [PDF](https://web-classroom.github.io/slides/1-introduction.html?print-pdf)
 - [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
+
+### Practice
+
+- [Set up a Windows development environment (not the "Install and configure your IDE" part) ](https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/01-introduction-and-course-organization/SET_UP_A_WINDOWS_DEVELOPMENT_ENVIRONMENT.md)
+<!-- - [Lab 0 - Hello World](https://classroom.github.com/a/a7u9prIt) -->
+- [CSS Diner](https://flukeout.github.io/)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
 
 </details>
 <details>
@@ -44,7 +50,8 @@ GitHub pages is available at
 
 ### Practice
 
-- [Lab 1](https://classroom.github.com/a/lRdvseJd)
+<!-- - [Lab 1](https://classroom.github.com/a/lRdvseJd) -->
+
 - [CSS Diner](https://flukeout.github.io/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -107,7 +114,7 @@ The lab is due on the 12st of March at 22:00.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [2D Breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 - [Test your skills: Object-oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
-- [Lab](https://classroom.github.com/a/U67r2yge) ·
+  <!-- - [Lab](https://classroom.github.com/a/U67r2yge) · -->
   [Description](https://web-classroom.github.io/labos/labo-2-tetris-1.html)
 
 </details>
@@ -165,8 +172,10 @@ The lab is due on the 12st of March at 22:00.
 
 ### Practice
 
-- [Lab](https://classroom.github.com/a/Hcc7glqC) ·
-  [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
+<!-- - [Lab](https://classroom.github.com/a/Hcc7glqC) · -->
+
+[Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
+
 - [example-chat](https://github.com/web-classroom/example-chat)
 - [loading example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html)
 - [Exercises: CSS Transitions and Animations](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations)
@@ -197,8 +206,10 @@ The lab is due on the 12st of March at 22:00.
 
 ### Practice
 
-- [Lab](https://classroom.github.com/a/EwpFDAH8) ·
-  [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+<!-- - [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
+
+[Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+
 - [Practical : JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises)
 - [Practical : JavaScript Asynchronous](https://www.w3schools.com/js/js_asynchronous.asp)
 - [Practical : JavaScript Async](https://www.w3schools.com/js/js_async.asp)
@@ -221,8 +232,10 @@ The lab is due on the 12st of March at 22:00.
 
 ### Practice
 
-- [Lab](https://classroom.github.com/a/EwpFDAH8) ·
-  [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+<!-- - [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
+
+[Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+
 - [XSS - pwwn() warmup](https://xss.pwnfunction.com/warmups/)
 - [XSS - game](https://xss-game.appspot.com/)
 
@@ -238,8 +251,9 @@ The lab is due on the 12st of March at 22:00.
 
 ### Practice
 
-- [Lab](https://classroom.github.com/a/Nx5uMN_1) ·
-  [Description](https://web-classroom.github.io/labos/labo-7-security.html)
+<!-- - [Lab](https://classroom.github.com/a/Nx5uMN_1) · -->
+
+[Description](https://web-classroom.github.io/labos/labo-7-security.html)
 
 </details>
 
@@ -265,8 +279,10 @@ The lab is due on the 12st of March at 22:00.
 
 ### Practice
 
-- [Lab](https://classroom.github.com/a/VQehqnE6) ·
-  [Description](https://web-classroom.github.io/labos/labo-libre.html)
+<!-- - [Lab](https://classroom.github.com/a/VQehqnE6) · -->
+
+[Description](https://web-classroom.github.io/labos/labo-libre.html)
+
 - [Create an interactive drawing application with a frontend and a backend](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/chapter-1-initialize-the-frontend-project-with-nextjs/)
 - [React Tutorial: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React: Quick Start](https://react.dev/learn)
@@ -290,17 +306,16 @@ The lab is due on the 12st of March at 22:00.
 
 </details>
 
-<details open>
+<details>
 <summary>Week 16</summary>
 
 ### Theory
-
-<!-- https://web-classroom.github.io/slides/2-html-css.html#/13 -->
 
 - [Media Queries](https://web-classroom.github.io/slides/2-html-css.html#/13)
 - [Media queries - CSS : Feuilles de style en cascade | MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 - [Prototype](https://web-classroom.github.io/slides/4-object-oriented-javascript.html#/3/5)
 - [Prototypes Objet - Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/Object_prototypes)
+</details>
 
 ## License
 

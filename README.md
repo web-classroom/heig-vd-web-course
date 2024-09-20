@@ -28,7 +28,10 @@ GitHub pages is available at
 ### Practice
 
 - [Set up a Windows development environment (not the "Install and configure your IDE" part) ](https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/01-introduction-and-course-organization/SET_UP_A_WINDOWS_DEVELOPMENT_ENVIRONMENT.md)
-<!-- - [Lab 0 - Hello World](https://classroom.github.com/a/a7u9prIt) -->
+- [Lab 0 - Hello World](https://classroom.github.com/a/a7u9prIt)
+- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+- [Live server - VScode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live server - IntelliJ](https://www.jetbrains.com/help/idea/live-editing.html)
 - [CSS Diner](https://flukeout.github.io/)
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)

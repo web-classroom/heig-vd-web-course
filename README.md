@@ -12,7 +12,7 @@ GitHub pages is available at
 
 ## Weeks
 
-<details open>
+<details>
 <summary>Week 1</summary>
 
 ### Theory
@@ -38,17 +38,16 @@ GitHub pages is available at
 - [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
 
 </details>
-<details>
+<details open>
 <summary>Week 2</summary>
 
 ### Theory
 
 - Questions
 - GitHub discussions and tags
-- [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- Feedbacks
 - [HTML & CSS](https://web-classroom.github.io/slides/2-html-css.html#/)·
   [PDF](https://web-classroom.github.io/slides/2-html-css.html?print-pdf)
+- [Quiz HTML & CSS](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)
 - [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Practice
@@ -59,8 +58,9 @@ GitHub pages is available at
 - [Grid Garden](https://cssgridgarden.com/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
+- [Foreshadowing for the first lab](https://github.com/heig-vd-tweb2017/digital-story-telling-client)
 
-For the lab, do not forget to push your modifications to GitHub. The GitHub
+<!-- For the lab, do not forget to push your modifications to GitHub. The GitHub
 Actions will tell you if you passed all the tests.
 
 You do not have to publish your website on GitHub Pages; it is not possible for
@@ -72,7 +72,7 @@ complicated, we can reduce the grade. You should not need more than one
 `position: absolute` and you do not need to use `position: relative` for this
 lab.
 
-The lab is due on the 12st of March at 22:00.
+The lab is due on the 12st of March at 22:00. -->
 
 </details>
 

@@ -38,7 +38,7 @@ GitHub pages is available at
 - [Flexbox CodePen](https://codepen.io/bchapuis-the-decoder/embed/ZEoawVE?height=265&theme-id=light&default-tab=html,result)
 
 </details>
-<details open>
+<details>
 <summary>Week 2</summary>
 
 ### Theory
@@ -76,24 +76,12 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
+<details open>
 <summary>Week 3</summary>
-
-### Theory
-
-- [JavaScript](https://web-classroom.github.io/slides/3-foundations-of-javascript.html)·[PDF](https://web-classroom.github.io/slides/3-foundations-of-javascript.html?print-pdf)
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-- [CSS Flex Generator](https://cssflex-generator.netlify.app/)
-- [MDN HTML Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/HTML)
-- [MDN CSS Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/CSS)
-- [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
 
 ### Practice
 
-- [Elevator Saga](https://play.elevatorsaga.com/)
-- [JS Robot](https://lab.reaal.me/jsrobot/#level=1&language=en)
-- [Js Is Weird](https://jsisweird.com/)
-- [RegexOne](https://regexone.com/)
+- [Lab 1](https://classroom.github.com/a/22LzKvSP)
 
 </details>
 

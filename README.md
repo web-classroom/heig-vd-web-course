@@ -103,6 +103,7 @@ The lab is due on the 12st of March at 22:00. -->
 ### Practice
 
 - [Lab 1](https://classroom.github.com/a/22LzKvSP)
+- [RegexOne](https://regexone.com/)
 - [MonsterJS](https://monsterjs.com/)
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
 - [2D Breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)

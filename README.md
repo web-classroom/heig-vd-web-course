@@ -103,6 +103,8 @@ The lab is due on the 12st of March at 22:00. -->
 ### Practice
 
 - [Lab 1](https://classroom.github.com/a/22LzKvSP)
+- [Lab 2](https://classroom.github.com/a/ZWfJZSzD) ·
+  [Description](https://web-classroom.github.io/labos/labo-2-tetris-1.html)
 - [RegexOne](https://regexone.com/)
 - [MonsterJS](https://monsterjs.com/)
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)

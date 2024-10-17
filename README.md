@@ -85,7 +85,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details>
 <summary>Week 4</summary>
 
 ### Theory
@@ -113,10 +113,11 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
+<details open>
 <summary>Week 5</summary>
 
-- [Course Evaluation](https://github.com/web-classroom/heig-vd-web-course/tree/main/docs/98-course-evaluation)
+- [Training](https://eval.iict-heig-vd.in/users/evaluations/cm2dhhi4y01tau5q1cwiva47u)
+  (You must be on the VPN to access the training, or on the HEIG-VD network)
 
 ### Theory
 

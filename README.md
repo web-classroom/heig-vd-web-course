@@ -113,7 +113,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details>
 <summary>Week 5</summary>
 
 - [Training](https://eval.iict-heig-vd.in/users/evaluations/cm2dhhi4y01tau5q1cwiva47u)
@@ -136,12 +136,12 @@ The lab is due on the 12st of March at 22:00. -->
   [Solution](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelectSolution.html)
 
 </details>
-<details>
+<details open>
 <summary>Week 6</summary>
 
 ### Theory
 
-- [Client Server applications](https://web-classroom.github.io/slides/6-client-server-applications.html)
+- [Client Server applications & Arrays/Generators](https://web-classroom.github.io/slides/6-client-server-applications.html)
   ·
   [PDF](https://web-classroom.github.io/slides/6-client-server-applications.html?print-pdf)
 - [Complete introduction to the most useful JavaScript array methods](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
@@ -151,7 +151,6 @@ The lab is due on the 12st of March at 22:00. -->
 ### Practice
 
 - [Create a media player application](https://docs.beescreens.ch/tutorials/create-a-media-player-application/chapter-1-initialize-the-project-with-nestjs/)
-  · [Result](https://mp.beescreens.ch/slideshows)
 
 </details>
 

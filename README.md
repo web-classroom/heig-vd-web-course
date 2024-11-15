@@ -154,38 +154,8 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
-<summary>Week 7</summary>
-
-### Theory
-
-- [Network Programming](https://web-classroom.github.io/slides/7-network-programming.html)
-  ·
-  [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
-- [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
-
-### Practice
-
-<!-- - [Lab](https://classroom.github.com/a/Hcc7glqC) · -->
-
-[Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
-
-- [example-chat](https://github.com/web-classroom/example-chat)
-- [loading example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html)
-- [Exercises: CSS Transitions and Animations](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations)
-- [Exercises: Basic HTML, CSS, JavaScript](https://codepen.io/jorgecardoso/post/0-basics-html-css-javascript)
-- [JavaScript Array Exercise](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
-- [Test your skill: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
-- [Test your skill: Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops)
-- [Test your skill: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Arrays)
-- [Map, Filter, Reduce - Code Exercises](https://www.crocoder.dev/blog/map-filter-reduce-exercises/)
-- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
-- [JavaScript Array Methods Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods1)
-
-</details>
-
-<details>
-<summary>Week 9</summary>
+<details open>
+<summary>Week 8</summary>
 
 ### Theory
 
@@ -197,6 +167,43 @@ The lab is due on the 12st of March at 22:00. -->
 - [MDN Promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
 - [MDN Callbacks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts)
 - [MDN JavaScript Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+### Practice
+
+<!-- - [Lab](https://classroom.github.com/a/Hcc7glqC) · -->
+
+<!-- [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html) -->
+
+<!-- - [example-chat](https://github.com/web-classroom/example-chat) -->
+
+- [loading example](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/loading.html)
+- [Exercises: CSS Transitions and Animations](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations)
+- [Exercises: Basic HTML, CSS, JavaScript](https://codepen.io/jorgecardoso/post/0-basics-html-css-javascript)
+- [JavaScript Array Exercise](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
+- [Test your skill: Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
+- [Test your skill: Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops)
+- [Test your skill: Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Arrays)
+- [Map, Filter, Reduce - Code Exercises](https://www.crocoder.dev/blog/map-filter-reduce-exercises/)
+- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+- [JavaScript Array Methods Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_array_methods1)
+- [Practical : JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript)
+- [Practical : JavaScript Asynchronous](https://www.w3schools.com/js/js_asynchronous.asp)
+- [Practical : JavaScript Async](https://www.w3schools.com/js/js_async.asp)
+- [Practical : JavaScript Promise](https://www.w3schools.com/js/js_promise.asp)
+- [Practical : JavaScript Callback](https://www.w3schools.com/js/js_callback.asp)
+- [Practical : JavaScript Promises Exercises](https://www.crocoder.dev/blog/promises-exercises/)
+
+</details>
+
+<details>
+<summary>Week 9</summary>
+
+### Theory
+
+- [Network Programming](https://web-classroom.github.io/slides/7-network-programming.html)
+  ·
+  [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
+- [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 
 ### Practice
 

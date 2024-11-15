@@ -136,7 +136,7 @@ The lab is due on the 12st of March at 22:00. -->
   [Solution](https://web-classroom.github.io/heig-vd-web-course/docs/99-examples/hairDomSelectSolution.html)
 
 </details>
-<details open>
+<details>
 <summary>Week 6</summary>
 
 ### Theory

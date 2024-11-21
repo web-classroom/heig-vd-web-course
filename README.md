@@ -154,7 +154,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details >
 <summary>Week 8</summary>
 
 ### Theory
@@ -195,7 +195,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
+<details open>
 <summary>Week 9</summary>
 
 ### Theory
@@ -203,20 +203,16 @@ The lab is due on the 12st of March at 22:00. -->
 - [Network Programming](https://web-classroom.github.io/slides/7-network-programming.html)
   ·
   [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
+- [Asynchronous Programming · REST](https://web-classroom.github.io/slides/8-async.html)
+  · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 
 ### Practice
 
-<!-- - [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
+<!-- [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
 
 [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
-
-- [Practical : JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises)
-- [Practical : JavaScript Asynchronous](https://www.w3schools.com/js/js_asynchronous.asp)
-- [Practical : JavaScript Async](https://www.w3schools.com/js/js_async.asp)
-- [Practical : JavaScript Promise](https://www.w3schools.com/js/js_promise.asp)
-- [Practical : JavaScript Callback](https://www.w3schools.com/js/js_callback.asp)
-- [Practical : JavaScript Promises Exercises](https://www.crocoder.dev/blog/promises-exercises/)
+[Tutorial: WebSockets](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/introduction/)
 
 </details>
 <details>

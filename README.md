@@ -203,6 +203,8 @@ The lab is due on the 12st of March at 22:00. -->
 - [Network Programming](https://web-classroom.github.io/slides/7-network-programming.html)
   ·
   [PDF](https://web-classroom.github.io/slides/7-network-programming.html?print-pdf)
+- [Asynchronous Programming · REST](https://web-classroom.github.io/slides/8-async.html)
+  · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 
 ### Practice
@@ -210,6 +212,7 @@ The lab is due on the 12st of March at 22:00. -->
 <!-- [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
 
 [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+[Tutorial: WebSockets](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/introduction/)
 
 </details>
 <details>

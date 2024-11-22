@@ -209,10 +209,9 @@ The lab is due on the 12st of March at 22:00. -->
 
 ### Practice
 
-<!-- [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
-
-[Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
-[Tutorial: WebSockets](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/introduction/)
+- [Description](https://web-classroom.github.io/labos/labo-3-tetris-2.html)
+- [GitHub Assignements](https://classroom.github.com/a/zKkCZrpA)
+- [Tutorial: WebSockets](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/introduction/)
 
 </details>
 <details>

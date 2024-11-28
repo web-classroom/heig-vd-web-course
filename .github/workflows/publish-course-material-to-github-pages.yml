@@ -41,7 +41,7 @@ jobs:
           args: .github/workflows/build-presentation-content.sh
 
       - name: Upload files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: course-material
           path: |
@@ -60,7 +60,7 @@ jobs:
     needs: build-course-material
     steps:
       - name: Download course-material
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: course-material
 

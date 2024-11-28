@@ -195,7 +195,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details>
 <summary>Week 9</summary>
 
 ### Theory
@@ -214,23 +214,23 @@ The lab is due on the 12st of March at 22:00. -->
 - [Tutorial: WebSockets](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/introduction/)
 
 </details>
-<details>
+<details open>
 <summary>Week 10</summary>
 
 ### Theory
 
+- [Security](https://web-classroom.github.io/slides/9-security.html) ·
+  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 - [Basic Promises](https://heig-mdt-gio1.github.io/material/latest/subjects/basic-promises)
 - [Asynchronous Programming](https://web-classroom.github.io/slides/8-async.html)
   · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
-- [Security](https://web-classroom.github.io/slides/9-security.html) ·
-  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 
 ### Practice
 
 <!-- - [Lab](https://classroom.github.com/a/EwpFDAH8) · -->
 
-[Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html)
+<!-- [Description](https://web-classroom.github.io/labos/labo-5-tetris-3.html) -->
 
 - [XSS - pwwn() warmup](https://xss.pwnfunction.com/warmups/)
 - [XSS - game](https://xss-game.appspot.com/)

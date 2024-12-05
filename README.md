@@ -225,6 +225,8 @@ The lab is due on the 12st of March at 22:00. -->
 - [Asynchronous Programming](https://web-classroom.github.io/slides/8-async.html)
   · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
+- [What ?](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
+- [How ?](https://github.com/mrd0x/BITB)
 
 ### Practice
 
@@ -245,6 +247,8 @@ The lab is due on the 12st of March at 22:00. -->
 - [Security](https://web-classroom.github.io/slides/9-security.html) ·
   [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
+- [What ?](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
+- [How ?](https://github.com/mrd0x/BITB)
 
 ### Practice
 

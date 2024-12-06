@@ -225,6 +225,11 @@ The lab is due on the 12st of March at 22:00. -->
 - [Asynchronous Programming](https://web-classroom.github.io/slides/8-async.html)
   · [PDF](https://web-classroom.github.io/slides/8-async.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
+- [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
+- [Browser templates for Browser In The Browser (BITB) attack.](https://github.com/mrd0x/BITB)
+- [Your API-Centric Web App Is Probably Not Safe Against XSS and CSRF](https://www.redotheweb.com/2015/11/09/api-security.html)
+- [JWT Issuer](https://mojoauth.com/glossary/jwt-issuer/)
+- [JWT Audience](https://mojoauth.com/glossary/jwt-audience/)
 
 ### Practice
 
@@ -245,6 +250,11 @@ The lab is due on the 12st of March at 22:00. -->
 - [Security](https://web-classroom.github.io/slides/9-security.html) ·
   [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
+- [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
+- [Browser templates for Browser In The Browser (BITB) attack.](https://github.com/mrd0x/BITB)
+- [Your API-Centric Web App Is Probably Not Safe Against XSS and CSRF](https://www.redotheweb.com/2015/11/09/api-security.html)
+- [JWT Issuer](https://mojoauth.com/glossary/jwt-issuer/)
+- [JWT Audience](https://mojoauth.com/glossary/jwt-audience/)
 
 ### Practice
 

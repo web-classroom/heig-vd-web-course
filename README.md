@@ -242,13 +242,11 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details >
 <summary>Week 11</summary>
 
 ### Theory
 
-- [Security](https://web-classroom.github.io/slides/9-security.html) ·
-  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
 - [Feross Aboukhadijeh's CS 253 Stanford course](https://web.stanford.edu/class/cs253/)
 - [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
 - [Browser templates for Browser In The Browser (BITB) attack.](https://github.com/mrd0x/BITB)
@@ -267,18 +265,32 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
+<details open>
 <summary>Week 12</summary>
 
 ### Theory
 
-- [Frontend Framework](https://web-classroom.github.io/slides/10-frontend-frameworks.html)
+- [Security](https://web-classroom.github.io/slides/9-security.html) ·
+  [PDF](https://web-classroom.github.io/slides/9-security.html?print-pdf)
+
+### Practice
+
+- [Evaluation de cours](https://gaps.heig-vd.ch/consultation/evaluationenseignements/index.php)
+- [Lab](https://classroom.github.com/a/KeuIXbW1) ·
+  [Description](https://web-classroom.github.io/labos/labo-7-security.html)
+- Ludovic Delafontaine et moi-même commençons un nouveau cours pour le prochain
+  semestre, j'aimerais avoir votre avis sur le
+  [calendrier](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) que
+  nous sommes en train de mettre en place
+
 </details>
 
 <details>
 <summary>Week 13</summary>
 
 ### Theory
+
+- [Frontend Framework](https://web-classroom.github.io/slides/10-frontend-frameworks.html)
 
 - [React Essentials](https://web-classroom.github.io/slides/11-react-essentials.html)
   ·

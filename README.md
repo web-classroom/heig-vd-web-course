@@ -265,7 +265,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details open>
+<details>
 <summary>Week 12</summary>
 
 ### Theory
@@ -285,7 +285,7 @@ The lab is due on the 12st of March at 22:00. -->
 
 </details>
 
-<details>
+<details open>
 <summary>Week 13</summary>
 
 ### Theory
@@ -303,8 +303,9 @@ The lab is due on the 12st of March at 22:00. -->
 
 <!-- - [Lab](https://classroom.github.com/a/VQehqnE6) · -->
 
-[Description](https://web-classroom.github.io/labos/labo-libre.html)
+<!-- [Description](https://web-classroom.github.io/labos/labo-libre.html) -->
 
+- [Evaluation de cours](https://gaps.heig-vd.ch/consultation/evaluationenseignements/index.php)
 - [Create an interactive drawing application with a frontend and a backend](https://docs.beescreens.ch/tutorials/create-an-interactive-drawing-application/chapter-1-initialize-the-frontend-project-with-nextjs/)
 - [React Tutorial: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 - [React: Quick Start](https://react.dev/learn)
